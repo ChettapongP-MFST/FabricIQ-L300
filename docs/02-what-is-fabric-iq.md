@@ -2,7 +2,7 @@
 
 **Fabric IQ** is the **semantic and AI layer of Microsoft Fabric**. It lets you describe your data the way the **business** thinks about it — in customers, products, transactions, branches — and then lets **AI agents and Copilot** reason on that description instead of raw tables.
 
-Reference: <https://learn.microsoft.com/en-us/fabric/iq/>
+> Reference: <https://learn.microsoft.com/en-us/fabric/iq/>
 
 ## The problem Fabric IQ solves
 
