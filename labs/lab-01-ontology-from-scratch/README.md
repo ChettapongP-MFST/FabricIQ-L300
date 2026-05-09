@@ -21,13 +21,7 @@ Most failed AI/data projects fail because there is no shared business semantics.
 
 - ✅ Fabric workspace on a capacity with Fabric IQ enabled — see [workshop/prerequisites.md](../../workshop/prerequisites.md)
 - ✅ Permission to create Lakehouse + Ontology in the workspace
-- ✅ Python 3.10+ on your laptop with the data generator dependencies installed:
-  ```bash
-  cd data/generators
-  pip install -r requirements.txt
-  python generate_batch_data.py
-  ```
-  This produces the CSVs in `data/batch/`.
+- ✅ The mock CSVs from this repo at [`data/batch/`](../../data/batch/) — already generated and committed, so just clone the repo (no Python required for the lab itself).
 
 ## Steps
 

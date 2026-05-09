@@ -2,18 +2,9 @@
 
 **Goal:** Create a Lakehouse named `BankingIQ_LH` and load the six Customer-domain CSVs into Delta tables.
 
-## 1.1 Generate the data
+## 1.1 Locate the data
 
-If you haven't already:
-
-```bash
-cd data/generators
-python -m venv .venv && source .venv/bin/activate
-pip install -r requirements.txt
-python generate_batch_data.py
-```
-
-You should see (among others) these files in `data/batch/`:
+The mock CSVs are already in this repo under [`data/batch/`](../../data/batch/). For Domain A you'll use:
 
 | File | Purpose |
 |---|---|
