@@ -152,3 +152,71 @@ open ../../labs/lab-01-ontology-from-scratch/README.md
   busy" errors.
 - For Lab 3 publishing to Teams + Copilot Studio you'll need an M365 tenant
   with permission to install custom apps; pre-clear with admin.
+
+================================================================
+SESSION 2 — May 9–10, 2026 (continued)
+================================================================
+
+7. POST-SCAFFOLD ACTIVITIES
+----------------------------------------------------------------
+A. Generated full mock dataset (Thai/THB) and committed to repo
+   - Ran data/generators/generate_batch_data.py inside .venv
+   - Produced 22 CSVs (~28 MB) in data/batch/:
+       Domain A: customers (10k), customer_addresses (12k),
+                 customer_segments (6), customer_segment_history (10k),
+                 kyc_records (10k), customer_contacts (23k)
+       Domain B: product_categories (6), products (25), accounts (18k),
+                 cards (7.5k), loans (4k),
+                 loan_repayment_schedule (~91k), fixed_deposits (3k),
+                 investment_holdings (2.5k)
+       Domain C: branches (50), employees (500),
+                 marketing_campaigns (30), campaign_responses (25k),
+                 support_tickets (8k), service_interactions (50k),
+                 leads (6k), sales_opportunities (3k)
+   - Refreshed streaming JSONL samples (50 events each):
+       data/streaming/card_transactions.sample.jsonl
+       data/streaming/deposit_transactions.sample.jsonl
+   - Updated .gitignore to allow committing the CSVs (commented-out
+     the data/batch/*.csv ignore line) so attendees on locked-down
+     laptops can skip Python entirely.
+   - Commit: 87fee47 "data: add generated batch CSVs (Thai/THB) and
+     refresh streaming samples"
+
+B. Removed Python prerequisite from Lab 1
+   - Reason: CSVs are now committed in repo, so workshop attendees
+     don't need Python locally to start the labs.
+   - Files updated:
+       labs/lab-01-ontology-from-scratch/README.md
+         (Prerequisites bullet now points to data/batch/ directly)
+       labs/lab-01-ontology-from-scratch/step-01-setup-lakehouse.md
+         (Removed "1.1 Generate the data" section)
+   - generate_batch_data.py and generate_streaming_sample.py remain
+     in the repo for maintainers but are no longer referenced from
+     any lab.
+   - Commit: 814eb04 "docs(lab-01): point to committed CSVs instead
+     of generator script"
+
+C. Misc
+   - Some autoformatter (Prettier or VS Code) lightly reformatted:
+       README.md, docs/01-what-is-microsoft-fabric.md,
+       docs/02-what-is-fabric-iq.md
+     No content changes — whitespace / table alignment only.
+   - Two `git pull --rebase` operations were needed because pushes
+     from another device landed in between local commits. No conflicts.
+
+8. CURRENT REPO STATE (origin/main)
+----------------------------------------------------------------
+- Default branch: main
+- Latest commit: 814eb04 (or newer if more pushes)
+- Workshop content: complete for Labs 1–3 + concept docs + workshop
+  guides. Lab 4 still deferred.
+- Mock data: committed (22 CSVs + 2 sample JSONL).
+- Generator scripts: present but not referenced from lab content.
+
+9. CLONE & RESUME ON ANOTHER DEVICE
+----------------------------------------------------------------
+git clone git@github.com:ChettapongP-MFST/FabricIQ-L300.git
+cd FabricIQ-L300
+# Open Lab 1 README — you already have all the data you need:
+open labs/lab-01-ontology-from-scratch/README.md
+# Upload data/batch/*.csv to your Fabric Lakehouse and follow the steps.
