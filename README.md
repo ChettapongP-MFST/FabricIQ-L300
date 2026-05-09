@@ -2,8 +2,8 @@
 
 Intensive hands-on labs and workshops for **Microsoft Fabric IQ**, designed for practitioners who already understand the basics (level 200) and want to go deep into ontology design, cross-domain semantics, and AI agents grounded on Fabric IQ.
 
-> Level 200 reference repo: <https://github.com/ChettapongP-MFST/FabricIQ>
 > Primary documentation: <https://learn.microsoft.com/en-us/fabric/iq/>
+
 
 ## Industry context
 
