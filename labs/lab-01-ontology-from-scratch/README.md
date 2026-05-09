@@ -46,9 +46,4 @@ flowchart LR
 Each box becomes an **Entity**, each arrow becomes a **Relationship**. Underneath, every box is **bound** to a Delta table in your Lakehouse.
 
 ## Lab conventions
-
-- All screenshots are referenced as `[screenshot: …]` placeholders. Replace with your own as you run.
-- Names in the UI are exactly the names you should type — copy them to keep Labs 2 & 3 working.
-- THB amounts and Thai names are intentional; do not localize away.
-
 When you're done, continue to [Lab 2 — Cross-Ontology Relationships](../lab-02-cross-ontology-relationships/README.md).
