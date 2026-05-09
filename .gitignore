@@ -27,3 +27,4 @@ data/streaming/*.jsonl
 .env
 *.pem
 *.key
+chat_history.txt
