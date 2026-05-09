@@ -1,0 +1,26 @@
+﻿product_id,category_id,product_name_th,product_name_en,currency,is_active
+PRD-SAV01,PC-DEP,บัญชีออมทรัพย์ Plus,Savings Plus,THB,True
+PRD-SAV02,PC-DEP,บัญชีออมทรัพย์ดิจิทัล,Digital Savings,THB,True
+PRD-CUR01,PC-DEP,บัญชีกระแสรายวัน,Current Account,THB,True
+PRD-SAL01,PC-DEP,บัญชีเงินเดือน,Salary Account,THB,True
+PRD-FD01,PC-DEP,เงินฝากประจำ 6 เดือน,Fixed Deposit 6M,THB,True
+PRD-FD02,PC-DEP,เงินฝากประจำ 12 เดือน,Fixed Deposit 12M,THB,True
+PRD-FD03,PC-DEP,เงินฝากประจำ 24 เดือน,Fixed Deposit 24M,THB,True
+PRD-CC01,PC-CRD,บัตรเครดิตกรุงเทพคลาสสิก,KrungThep Classic,THB,True
+PRD-CC02,PC-CRD,บัตรเครดิตกรุงเทพแพลทินัม,KrungThep Platinum,THB,True
+PRD-CC03,PC-CRD,บัตรเครดิตซิกเนเจอร์,Signature,THB,True
+PRD-CC04,PC-CRD,บัตรเครดิตอินฟินิท,Infinite,THB,True
+PRD-DC01,PC-CRD,บัตรเดบิต Be1st,Be1st Debit,THB,True
+PRD-DC02,PC-CRD,บัตรเดบิตเวอร์ชวล,Virtual Debit,THB,True
+PRD-LN01,PC-LON,สินเชื่อบุคคล,Personal Loan,THB,True
+PRD-LN02,PC-LON,สินเชื่อรถยนต์,Auto Loan,THB,True
+PRD-LN03,PC-LON,สินเชื่อบ้าน,Home Loan,THB,True
+PRD-LN04,PC-LON,สินเชื่อ SME,SME Loan,THB,True
+PRD-WL01,PC-WLT,กองทุนรวมตราสารหนี้,Bond Fund,THB,True
+PRD-WL02,PC-WLT,กองทุนรวมตราสารทุน,Equity Fund,THB,True
+PRD-WL03,PC-WLT,กองทุนรวม SSF,SSF Fund,THB,True
+PRD-WL04,PC-WLT,กองทุนรวม RMF,RMF Fund,THB,True
+PRD-IN01,PC-INS,ประกันชีวิตคุ้มครองครอบครัว,Life Family Shield,THB,True
+PRD-IN02,PC-INS,ประกันสุขภาพพรีเมียร์,Health Premier,THB,True
+PRD-DG01,PC-DIG,กระเป๋าเงินดิจิทัล,Digital Wallet,THB,True
+PRD-DG02,PC-DIG,QR PromptPay Plus,QR PromptPay Plus,THB,True

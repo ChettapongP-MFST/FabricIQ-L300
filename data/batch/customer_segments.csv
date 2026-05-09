@@ -1,0 +1,7 @@
+﻿segment_id,segment_name,description
+SEG-MASS,Mass,ลูกค้าทั่วไป รายได้ปานกลาง
+SEG-MAFF,Mass-Affluent,รายได้ดี มีศักยภาพสูง
+SEG-AFFL,Affluent,ลูกค้ามั่งคั่ง
+SEG-PRIV,Private,ลูกค้า Private Banking
+SEG-SME,SME,ผู้ประกอบการขนาดกลางและย่อม
+SEG-CORP,Corporate,ลูกค้านิติบุคคลขนาดใหญ่

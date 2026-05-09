@@ -1,0 +1,31 @@
+﻿campaign_id,campaign_name,objective,channel,target_product_id,target_segment_id,start_date,end_date,budget_thb,status
+CMP0001,แคมเปญ กรดไหลย้อน 2024,Cross-sell,Branch,PRD-LN03,SEG-CORP,2024-11-11,2024-11-25,2117487.55,Completed
+CMP0002,แคมเปญ ขุด 2024,Acquisition,Mobile App,PRD-CC01,SEG-SME,2024-10-22,2024-11-17,4445533.43,Running
+CMP0003,แคมเปญ รถทัวร์ 2026,Reactivation,LINE OA,PRD-CUR01,SEG-CORP,2026-03-04,2026-05-08,3943698.28,Running
+CMP0004,แคมเปญ เรื่อย 2025,Acquisition,Branch,PRD-FD01,SEG-CORP,2025-09-11,2025-09-25,731491.09,Running
+CMP0005,แคมเปญ สำนักงาน 2026,Reactivation,Outbound Call,PRD-IN01,SEG-CORP,2026-03-12,2026-04-20,624761.08,Running
+CMP0006,แคมเปญ แม่มด 2024,Reactivation,LINE OA,PRD-CUR01,SEG-CORP,2024-09-13,2024-10-21,4900561.35,Completed
+CMP0007,แคมเปญ เศษอาหาร 2026,Retention,Mobile App,PRD-SAL01,SEG-SME,2026-04-21,2026-06-13,2229068.14,Running
+CMP0008,แคมเปญ สบาย 2025,Up-sell,Email,PRD-FD02,SEG-SME,2025-10-03,2025-11-24,3728362.93,Running
+CMP0009,แคมเปญ ออนซอนเด๊ 2025,Cross-sell,SMS,PRD-WL01,SEG-MAFF,2025-02-21,2025-03-10,513932.36,Planned
+CMP0010,แคมเปญ ร่าง 2024,Reactivation,Branch,PRD-IN02,SEG-PRIV,2024-10-08,2024-12-10,4906426.5,Completed
+CMP0011,แคมเปญ ใบไม้ 2024,Retention,LINE OA,PRD-CC02,SEG-CORP,2024-07-18,2024-10-05,4953867.17,Planned
+CMP0012,แคมเปญ มิตร 2025,Cross-sell,Email,PRD-CC03,SEG-AFFL,2025-12-14,2026-03-03,4194517.3,Completed
+CMP0013,แคมเปญ น้า 2024,Acquisition,Outbound Call,PRD-DC01,SEG-SME,2024-06-25,2024-07-13,402080.12,Completed
+CMP0014,แคมเปญ เยอะ 2025,Reactivation,Mobile App,PRD-CUR01,SEG-AFFL,2025-03-05,2025-04-05,3632952.38,Completed
+CMP0015,แคมเปญ ด้วย 2025,Retention,Mobile App,PRD-LN03,SEG-MASS,2025-08-14,2025-09-16,1644270.85,Completed
+CMP0016,แคมเปญ พิพักพิพ่วน 2026,Acquisition,Outbound Call,PRD-LN02,SEG-SME,2026-02-28,2026-04-15,1129221.82,Planned
+CMP0017,แคมเปญ กีฬา 2025,Up-sell,Mobile App,PRD-SAV01,SEG-PRIV,2025-05-25,2025-07-02,275436.15,Running
+CMP0018,แคมเปญ แม่มด 2024,Retention,Outbound Call,PRD-DC02,SEG-AFFL,2024-04-11,2024-06-25,177444.38,Completed
+CMP0019,แคมเปญ คอก 2024,Cross-sell,Mobile App,PRD-DC01,SEG-SME,2024-06-04,2024-08-14,4450002.29,Completed
+CMP0020,แคมเปญ ถีบ 2024,Reactivation,LINE OA,PRD-LN02,SEG-CORP,2024-11-20,2025-01-03,579450.04,Completed
+CMP0021,แคมเปญ สบาย 2024,Acquisition,Email,PRD-SAV01,SEG-PRIV,2024-03-25,2024-05-08,988340.09,Completed
+CMP0022,แคมเปญ เยาวชน 2025,Reactivation,Branch,PRD-WL02,SEG-MASS,2025-07-21,2025-10-01,3089451.57,Running
+CMP0023,แคมเปญ อวัยวะ 2024,Cross-sell,SMS,PRD-CC01,SEG-SME,2024-09-11,2024-10-14,2965772.47,Completed
+CMP0024,แคมเปญ อวัยวะ 2024,Up-sell,Email,PRD-SAL01,SEG-AFFL,2024-07-31,2024-08-22,286327.42,Completed
+CMP0025,แคมเปญ ไอศกรีม 2024,Acquisition,SMS,PRD-SAL01,SEG-CORP,2024-12-02,2024-12-20,2970619.97,Running
+CMP0026,แคมเปญ เขยื้อน 2025,Cross-sell,SMS,PRD-DC01,SEG-MASS,2025-07-04,2025-08-02,1028057.03,Completed
+CMP0027,แคมเปญ อินสตาแกรม 2025,Retention,LINE OA,PRD-WL01,SEG-SME,2025-01-24,2025-03-14,1103747.43,Running
+CMP0028,แคมเปญ บันได 2024,Retention,Branch,PRD-CC04,SEG-SME,2024-09-12,2024-10-13,2556080.23,Running
+CMP0029,แคมเปญ เชื้อโรค 2024,Up-sell,SMS,PRD-DG02,SEG-MAFF,2024-05-22,2024-07-17,1591792.45,Running
+CMP0030,แคมเปญ สบาย 2025,Cross-sell,Email,PRD-FD03,SEG-MASS,2025-03-11,2025-04-01,2009223.25,Completed

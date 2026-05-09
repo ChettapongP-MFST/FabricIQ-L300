@@ -1,0 +1,7 @@
+﻿category_id,category_name,description
+PC-DEP,Deposit,บัญชีเงินฝาก
+PC-LON,Loan,สินเชื่อ
+PC-CRD,Card,บัตรเครดิต/เดบิต
+PC-WLT,Wealth,บริการบริหารความมั่งคั่ง
+PC-INS,Insurance,ประกันภัย
+PC-DIG,Digital,ผลิตภัณฑ์ดิจิทัล

@@ -1,0 +1,501 @@
+﻿employee_id,first_name,last_name,full_name,role,branch_id,email,phone,hire_date,is_active
+EMP00001,หรรษธร,ทองแท้,หรรษธร ทองแท้,Branch Manager,BR0041,udiaz@example.net,0820622144,2022-05-25,True
+EMP00002,ผดุงชาติ,ชุมวระ,ผดุงชาติ ชุมวระ,Wealth Advisor,BR0014,keithcastaneda@example.net,0861151873,2021-08-22,True
+EMP00003,วิทูลย์,ฉัตรอภิเที่ยงค่ำ,วิทูลย์ ฉัตรอภิเที่ยงค่ำ,Relationship Manager,BR0002,brewerjohnny@example.com,0846636617,2026-02-19,True
+EMP00004,โรสชา,ศาสตร์ศิลป์,โรสชา ศาสตร์ศิลป์,Relationship Manager,BR0031,promero@example.net,0826450173,2024-03-25,True
+EMP00005,วิเชียร,บินดี,วิเชียร บินดี,Wealth Advisor,BR0005,joyceheather@example.org,0918367717,2009-02-28,True
+EMP00006,ศุภชัย,ขุนดำ,ศุภชัย ขุนดำ,Teller,BR0048,cacevedo@example.org,0684031846,2024-07-03,True
+EMP00007,นาวีตา,ไตรบรรพ,นาวีตา ไตรบรรพ,Branch Manager,BR0027,wardjonathan@example.org,0676038935,2021-04-19,True
+EMP00008,ฐิติยาพร,ตวันเยี่ยม,ฐิติยาพร ตวันเยี่ยม,Contact Center Agent,BR0026,rebecca51@example.net,0988468139,2018-11-16,True
+EMP00009,ศิรณัฐ,ขำเอนก,ศิรณัฐ ขำเอนก,Wealth Advisor,BR0035,jonathan34@example.net,0966589723,2018-02-09,True
+EMP00010,จริยฉัตร,ดิศดใน,จริยฉัตร ดิศดใน,Contact Center Agent,BR0048,bsloan@example.com,0975609365,2019-03-03,True
+EMP00011,วณัฐดา,นามเสวตร,วณัฐดา นามเสวตร,Loan Officer,BR0001,gnelson@example.com,0832145568,2019-02-06,True
+EMP00012,ดวงจันทร์,ปานสุวรรณ,ดวงจันทร์ ปานสุวรรณ,Wealth Advisor,BR0043,dawn47@example.net,0868054227,2013-10-29,True
+EMP00013,ปิยนาฎ,ทองปากน้ำ,ปิยนาฎ ทองปากน้ำ,Relationship Manager,BR0009,tthompson@example.com,0828640368,2005-06-10,True
+EMP00014,โกมล,ดาวกระจาย,โกมล ดาวกระจาย,Relationship Manager,BR0007,wpearson@example.org,0893037117,2021-09-27,True
+EMP00015,ธีรลักษณ์,มิ่งขวัญ,ธีรลักษณ์ มิ่งขวัญ,Teller,BR0020,raymondmorales@example.com,0895228682,2019-05-21,True
+EMP00016,เชิงชาย,นาคสุทิน,เชิงชาย นาคสุทิน,Loan Officer,BR0024,colin01@example.org,0952767658,2005-03-17,True
+EMP00017,ธีรวุฒิ,หนักแน่น,ธีรวุฒิ หนักแน่น,Wealth Advisor,BR0023,smithjeffrey@example.com,0661549160,2006-07-18,True
+EMP00018,ปวีณ,ทองเนื้อดี,ปวีณ ทองเนื้อดี,Relationship Manager,BR0047,leongabrielle@example.net,0862599671,2012-08-11,True
+EMP00019,นิมุ,นากกนก,นิมุ นากกนก,Relationship Manager,BR0034,michael10@example.org,0969865450,2012-11-11,True
+EMP00020,พิชญ์สินี,ฉายแสง,พิชญ์สินี ฉายแสง,Contact Center Agent,BR0038,stephensbrian@example.net,0968259467,2017-01-30,True
+EMP00021,คมสัน,ถนัดพิมพการ,คมสัน ถนัดพิมพการ,Loan Officer,BR0049,bryantclinton@example.net,0663918316,2005-05-23,True
+EMP00022,ชนิศา,ตันตราจิณ,ชนิศา ตันตราจิณ,Loan Officer,BR0035,oford@example.com,0933494073,2008-03-24,True
+EMP00023,กิติกานต์,เมืองสุข,กิติกานต์ เมืองสุข,Teller,BR0005,baileyward@example.net,0817293353,2018-07-08,True
+EMP00024,กุลภาวลัย,ธรรมนิยม,กุลภาวลัย ธรรมนิยม,Contact Center Agent,BR0028,lgarza@example.com,0815884342,2024-10-27,True
+EMP00025,สมหมาย,แก้วอยู่,สมหมาย แก้วอยู่,Wealth Advisor,BR0003,lauren91@example.net,0993007281,2009-03-23,True
+EMP00026,ตรีนุช,สันตะวงศ์,ตรีนุช สันตะวงศ์,Wealth Advisor,BR0037,matthew72@example.org,0871795231,2017-07-31,True
+EMP00027,รัฐพงษ์,นาถะพินธุ,รัฐพงษ์ นาถะพินธุ,Contact Center Agent,BR0038,bellsarah@example.net,0986192963,2016-08-14,True
+EMP00028,ปิยวดี,เนื่องนนท์,ปิยวดี เนื่องนนท์,Contact Center Agent,BR0041,smithmarcus@example.org,0931950782,2009-04-20,True
+EMP00029,กนกเนตร,ดัตพันธุ์,กนกเนตร ดัตพันธุ์,Wealth Advisor,BR0040,gabrielfreeman@example.net,0674463031,2021-08-02,True
+EMP00030,ศิริญา,แต้กุล,ศิริญา แต้กุล,Wealth Advisor,BR0016,heather14@example.net,0615871288,2017-08-16,True
+EMP00031,เทียมศักดิ์,สุวรรณหงษ์,เทียมศักดิ์ สุวรรณหงษ์,Teller,BR0002,danieljenkins@example.org,0696585680,2005-09-06,True
+EMP00032,ปิยนุช,ตันเผ่า,ปิยนุช ตันเผ่า,Relationship Manager,BR0003,yjenkins@example.org,0625180890,2012-06-15,True
+EMP00033,หลี,ทันยุค,หลี ทันยุค,Wealth Advisor,BR0016,david46@example.org,0987093970,2016-05-01,True
+EMP00034,อเนชา,เนื้อนุ่ม,อเนชา เนื้อนุ่ม,Wealth Advisor,BR0009,dianabrown@example.com,0627060199,2011-05-17,True
+EMP00035,ขอดิเยาะ,นักรบ,ขอดิเยาะ นักรบ,Loan Officer,BR0019,christinaflowers@example.org,0687453210,2009-01-04,True
+EMP00036,วิถี,นิระหานี,วิถี นิระหานี,Contact Center Agent,BR0015,caitlin45@example.com,0890831252,2014-06-17,True
+EMP00037,ชัญญานุนาย,เขียวอ่อน,ชัญญานุนาย เขียวอ่อน,Branch Manager,BR0009,ljackson@example.net,0811666874,2007-12-31,False
+EMP00038,จักรีรัตน์,ดาวกระจาย,จักรีรัตน์ ดาวกระจาย,Wealth Advisor,BR0014,mcdanielalyssa@example.net,0627845186,2018-09-01,True
+EMP00039,มาสิตะ,กุมารบุญ,มาสิตะ กุมารบุญ,Wealth Advisor,BR0046,vmorales@example.org,0942734039,2016-12-14,True
+EMP00040,ตรีนุช,ถนอมพลกรัง,ตรีนุช ถนอมพลกรัง,Contact Center Agent,BR0022,edeleon@example.net,0964740742,2015-10-11,True
+EMP00041,จีราภรณ์,นาคสุทิน,จีราภรณ์ นาคสุทิน,Contact Center Agent,BR0007,sandra22@example.com,0951654767,2007-09-06,True
+EMP00042,ปัณณธร,ทองสุกเลิศ,ปัณณธร ทองสุกเลิศ,Teller,BR0046,melanieperry@example.net,0979724899,2020-06-15,True
+EMP00043,พันเกล้า,นาคสุทิน,พันเกล้า นาคสุทิน,Contact Center Agent,BR0021,elliottcathy@example.org,0922212128,2006-02-07,True
+EMP00044,ภัทราวุธ,ดาบเพ็ชร์,ภัทราวุธ ดาบเพ็ชร์,Contact Center Agent,BR0050,timothyjones@example.net,0876259853,2022-04-11,True
+EMP00045,เยาวรัตน์,นาคพันธุ์,เยาวรัตน์ นาคพันธุ์,Contact Center Agent,BR0038,laurenboyd@example.net,0627193585,2011-07-23,True
+EMP00046,ไมล์,ทองสินธุ์,ไมล์ ทองสินธุ์,Loan Officer,BR0043,walkerrichard@example.net,0994973330,2006-12-09,True
+EMP00047,ลักษมี,ทรัพย์ธำรงค์,ลักษมี ทรัพย์ธำรงค์,Relationship Manager,BR0040,benjamin97@example.com,0615181776,2026-02-26,True
+EMP00048,สรรเพชญ์,ไสยกิจ,สรรเพชญ์ ไสยกิจ,Teller,BR0022,aliciamonroe@example.net,0672350792,2016-12-04,True
+EMP00049,มนัญชยา,นาคสุทิน,มนัญชยา นาคสุทิน,Loan Officer,BR0031,george25@example.org,0937866450,2018-07-16,True
+EMP00050,ดวงสมร,มิ่งขวัญ,ดวงสมร มิ่งขวัญ,Loan Officer,BR0011,davidhahn@example.net,0861290836,2020-05-20,True
+EMP00051,ณัฐญาดา,นิลสุวรรณ์,ณัฐญาดา นิลสุวรรณ์,Teller,BR0008,krista99@example.com,0614363086,2013-02-25,True
+EMP00052,จินต์จุฑา,เดชวา,จินต์จุฑา เดชวา,Branch Manager,BR0042,randallbarry@example.com,0695753836,2011-12-06,True
+EMP00053,ณิชเชฏฐ์,ศรีอุ่น,ณิชเชฏฐ์ ศรีอุ่น,Contact Center Agent,BR0005,mathissharon@example.org,0998697964,2007-10-27,True
+EMP00054,คมสัน,ถ้วนศรี,คมสัน ถ้วนศรี,Branch Manager,BR0015,mjackson@example.com,0694709587,2011-05-11,True
+EMP00055,อรรจน์,สาระพันธ์,อรรจน์ สาระพันธ์,Contact Center Agent,BR0009,angelamason@example.org,0826460614,2024-08-07,True
+EMP00056,วันฉัตร,นาคพันธุ์,วันฉัตร นาคพันธุ์,Contact Center Agent,BR0050,lamtracy@example.org,0622990153,2012-03-24,True
+EMP00057,ภานุวัตร,เยาวธนโชค,ภานุวัตร เยาวธนโชค,Loan Officer,BR0013,patrickregina@example.net,0838856445,2007-05-20,True
+EMP00058,จักรพันธ์,ธรรมฤดี,จักรพันธ์ ธรรมฤดี,Branch Manager,BR0036,toddwilson@example.org,0934018384,2014-04-21,True
+EMP00059,ธีราทัต,บุญญาไลย์,ธีราทัต บุญญาไลย์,Loan Officer,BR0035,joseph22@example.org,0919890128,2009-01-10,True
+EMP00060,กรพนธ์,ตะละภัฏ,กรพนธ์ ตะละภัฏ,Contact Center Agent,BR0014,zbolton@example.net,0650817566,2020-06-17,True
+EMP00061,ณปภัช,เขียวอ่อน,ณปภัช เขียวอ่อน,Loan Officer,BR0031,ramirezsteven@example.net,0874953396,2014-01-01,True
+EMP00062,สุภาลินี,เดชคุ้ม,สุภาลินี เดชคุ้ม,Contact Center Agent,BR0007,dawnbennett@example.com,0995891834,2022-05-25,True
+EMP00063,บุญพา,ตันยา,บุญพา ตันยา,Contact Center Agent,BR0050,samuel34@example.net,0610528771,2021-05-03,True
+EMP00064,ยศพนต์,เนื่องนนท์,ยศพนต์ เนื่องนนท์,Branch Manager,BR0023,romeroanthony@example.net,0634265487,2016-05-06,True
+EMP00065,ดิลก,เตชะกำพุ,ดิลก เตชะกำพุ,Loan Officer,BR0043,katherine79@example.com,0628839219,2013-12-11,True
+EMP00066,พรปราณี,สันตะวงศ์,พรปราณี สันตะวงศ์,Relationship Manager,BR0014,kimberlybrown@example.net,0813455484,2019-05-17,True
+EMP00067,เบญญาทิพย์,ไตรบรรพ,เบญญาทิพย์ ไตรบรรพ,Wealth Advisor,BR0017,chris95@example.org,0682718679,2020-12-20,True
+EMP00068,จันทภา,เขียวอ่อน,จันทภา เขียวอ่อน,Branch Manager,BR0011,msmith@example.net,0935210875,2020-10-22,False
+EMP00069,วรรณกร,หอมพิกุล,วรรณกร หอมพิกุล,Teller,BR0017,richardjamie@example.com,0618585071,2019-05-20,True
+EMP00070,สนั่น,ตั้งกุลงาม,สนั่น ตั้งกุลงาม,Branch Manager,BR0018,nallen@example.com,0665883331,2010-08-25,True
+EMP00071,นพวรรณ,นฤทุกข์,นพวรรณ นฤทุกข์,Loan Officer,BR0017,alvarezedward@example.com,0633783846,2006-10-22,True
+EMP00072,เนติลักษณ์,เธียรายัน,เนติลักษณ์ เธียรายัน,Relationship Manager,BR0032,jacobgrant@example.org,0880973077,2016-12-20,True
+EMP00073,อรจิรา,ดัตพันธุ์,อรจิรา ดัตพันธุ์,Wealth Advisor,BR0010,durhamricky@example.org,0959962957,2017-12-05,True
+EMP00074,จำรัส,ซาซุม,จำรัส ซาซุม,Wealth Advisor,BR0016,ioconnor@example.org,0876796534,2013-03-06,True
+EMP00075,สุไฮลัน,นาฏคายี,สุไฮลัน นาฏคายี,Teller,BR0005,victor99@example.com,0869884235,2005-12-11,True
+EMP00076,วาร์มูฮำหมัด,งามพิเชษฐ์,วาร์มูฮำหมัด งามพิเชษฐ์,Teller,BR0004,patrick89@example.com,0984721381,2008-10-15,True
+EMP00077,โสภณ,ร่มธิติรัตน์,โสภณ ร่มธิติรัตน์,Wealth Advisor,BR0007,brittanytucker@example.org,0930156124,2020-11-16,True
+EMP00078,ภัคชนน,ไทยสุชาต,ภัคชนน ไทยสุชาต,Wealth Advisor,BR0002,zachary48@example.com,0935787353,2010-07-16,True
+EMP00079,ภูวฤณ,ประจันตะเสน,ภูวฤณ ประจันตะเสน,Loan Officer,BR0005,hfrye@example.com,0943131716,2013-04-21,True
+EMP00080,พชรภรณ์,คำลือ,พชรภรณ์ คำลือ,Loan Officer,BR0040,cabrerakenneth@example.com,0889134434,2022-06-14,True
+EMP00081,สุทธิพจน์,ซาซุม,สุทธิพจน์ ซาซุม,Teller,BR0010,smendoza@example.com,0875363960,2022-03-23,True
+EMP00082,สิราพร,นาถะเดชะ,สิราพร นาถะเดชะ,Relationship Manager,BR0030,oliviahorn@example.org,0963612124,2022-01-19,True
+EMP00083,รักชนก,หิรัญสาลี,รักชนก หิรัญสาลี,Relationship Manager,BR0044,gabriellegonzales@example.org,0814148400,2007-07-18,True
+EMP00084,ปัณณธร,ดวงทับทิม,ปัณณธร ดวงทับทิม,Branch Manager,BR0039,uwatson@example.net,0618866168,2023-10-31,True
+EMP00085,ยุศรอน,เดชวา,ยุศรอน เดชวา,Loan Officer,BR0039,webstersheila@example.com,0685719315,2021-06-05,True
+EMP00086,วิพุธ,เธียรายัน,วิพุธ เธียรายัน,Loan Officer,BR0033,deborahroberts@example.com,0920446917,2017-02-16,True
+EMP00087,ศุภชัย,ตัณฑนุช,ศุภชัย ตัณฑนุช,Branch Manager,BR0011,brian17@example.com,0673286877,2016-07-11,True
+EMP00088,สมพิศ,ถมังรักษสัตว์,สมพิศ ถมังรักษสัตว์,Contact Center Agent,BR0041,danderson@example.com,0851639014,2014-02-13,True
+EMP00089,ณัฐติญา,ธูปะวิโรจน์,ณัฐติญา ธูปะวิโรจน์,Relationship Manager,BR0037,riversandrew@example.net,0698336088,2005-11-15,True
+EMP00090,หรรษา,ทวนทอง,หรรษา ทวนทอง,Branch Manager,BR0035,thomaslisa@example.com,0632024104,2017-08-15,True
+EMP00091,วาสุเทพ,นวลเพ็ง,วาสุเทพ นวลเพ็ง,Contact Center Agent,BR0045,rachelgrimes@example.com,0937606948,2020-04-27,True
+EMP00092,สัญชาน,นิลวรรณ,สัญชาน นิลวรรณ,Branch Manager,BR0026,melanie12@example.net,0672506262,2021-04-13,True
+EMP00093,ศศิรินทร์,เดชวา,ศศิรินทร์ เดชวา,Branch Manager,BR0045,danielle16@example.org,0894109480,2017-10-13,True
+EMP00094,พัชรพร,นิลเสนา,พัชรพร นิลเสนา,Contact Center Agent,BR0002,cynthiamay@example.com,0897210844,2012-03-16,True
+EMP00095,เจษฎากร,ทัศนสุทธิ,เจษฎากร ทัศนสุทธิ,Loan Officer,BR0034,omcdowell@example.com,0680961861,2022-10-02,True
+EMP00096,พันเทพ,ทันยุค,พันเทพ ทันยุค,Contact Center Agent,BR0003,tstevenson@example.com,0626789139,2011-06-24,True
+EMP00097,วัลลภ,ปานสุวรรณ,วัลลภ ปานสุวรรณ,Branch Manager,BR0033,evansashley@example.net,0826995507,2007-06-27,False
+EMP00098,ณปภัช,วุฑฒยากร,ณปภัช วุฑฒยากร,Loan Officer,BR0019,michaelmichael@example.net,0945565226,2024-11-14,True
+EMP00099,มณียา,ถมปัด,มณียา ถมปัด,Loan Officer,BR0050,tinawatson@example.com,0811280894,2011-09-16,True
+EMP00100,ปิยวัจน์,ฉัตรอภิเที่ยงค่ำ,ปิยวัจน์ ฉัตรอภิเที่ยงค่ำ,Relationship Manager,BR0028,sbaird@example.org,0897088363,2012-11-07,True
+EMP00101,อรพิณ,ฉัตรอภิเที่ยงค่ำ,อรพิณ ฉัตรอภิเที่ยงค่ำ,Contact Center Agent,BR0033,penningtonstacey@example.com,0869283898,2015-02-24,True
+EMP00102,นาย,ดิสกะประกาย,นาย ดิสกะประกาย,Loan Officer,BR0002,donovanandrew@example.org,0624087560,2012-11-26,True
+EMP00103,เทพนารี,ชำนาญวาด,เทพนารี ชำนาญวาด,Relationship Manager,BR0032,twilcox@example.com,0956105644,2017-05-28,True
+EMP00104,อธิวัตร,นิละทัต,อธิวัตร นิละทัต,Contact Center Agent,BR0030,hmurillo@example.org,0674765439,2019-02-03,True
+EMP00105,กันตวรรณ,ฉัตรอภิเที่ยงค่ำ,กันตวรรณ ฉัตรอภิเที่ยงค่ำ,Loan Officer,BR0048,nchavez@example.net,0853840001,2020-08-23,True
+EMP00106,นาย,ทรัพย์สาร,นาย ทรัพย์สาร,Loan Officer,BR0038,davidkaiser@example.net,0875628837,2015-03-24,True
+EMP00107,ซูฮัยดา,ดาวกระจาย,ซูฮัยดา ดาวกระจาย,Relationship Manager,BR0017,jesse51@example.org,0822207939,2005-04-15,True
+EMP00108,ซูรัยดา,มิ่งขวัญ,ซูรัยดา มิ่งขวัญ,Branch Manager,BR0039,xkirk@example.net,0899094090,2026-03-03,True
+EMP00109,เกษตร,ยะผา,เกษตร ยะผา,Teller,BR0025,ortizleah@example.net,0824502059,2017-05-16,True
+EMP00110,สิริกานต์,ธาราธร,สิริกานต์ ธาราธร,Loan Officer,BR0031,franklinmichael@example.com,0983653536,2010-11-14,True
+EMP00111,วิถี,ซูสารอ,วิถี ซูสารอ,Branch Manager,BR0023,alanmartin@example.com,0635725853,2012-09-27,True
+EMP00112,เทียมศักดิ์,ถนอมมนุษย์,เทียมศักดิ์ ถนอมมนุษย์,Loan Officer,BR0013,zsexton@example.net,0878859053,2007-02-21,True
+EMP00113,เขียว,หอมสิน,เขียว หอมสิน,Teller,BR0008,qpatterson@example.org,0886698010,2015-04-09,True
+EMP00114,ฉัตรปรียา,นรวิทย์โชติกุล,ฉัตรปรียา นรวิทย์โชติกุล,Branch Manager,BR0035,ericcoffey@example.com,0686041124,2026-01-04,True
+EMP00115,วิเชียร,นาคะนคร,วิเชียร นาคะนคร,Teller,BR0040,paul98@example.com,0998127926,2018-02-06,True
+EMP00116,หลี,พรมอ่อน,หลี พรมอ่อน,Teller,BR0045,ashley30@example.org,0662135156,2021-09-06,True
+EMP00117,ยอดแมน,อัตตนาถ,ยอดแมน อัตตนาถ,Wealth Advisor,BR0047,ysanchez@example.org,0697450098,2012-07-19,True
+EMP00118,ปวีณ,นพตระกูล,ปวีณ นพตระกูล,Wealth Advisor,BR0026,pooleeric@example.net,0682219950,2005-04-11,True
+EMP00119,ธาเอก,งามพิเชษฐ์,ธาเอก งามพิเชษฐ์,Loan Officer,BR0021,rcolon@example.org,0661479850,2006-08-20,True
+EMP00120,วัลลภ,ตรีเภรินทร์,วัลลภ ตรีเภรินทร์,Branch Manager,BR0020,lisa82@example.com,0975811053,2013-08-19,True
+EMP00121,ณัฐพิชา,เมืองสุข,ณัฐพิชา เมืองสุข,Loan Officer,BR0023,rwood@example.com,0641128288,2015-05-22,True
+EMP00122,จรรยพร,ฉิมพาลี,จรรยพร ฉิมพาลี,Teller,BR0038,rwilliams@example.net,0948962164,2010-01-29,True
+EMP00123,กุลภาวลัย,จ้อยนุแสง,กุลภาวลัย จ้อยนุแสง,Relationship Manager,BR0025,rachaelsmall@example.com,0646010560,2005-01-29,True
+EMP00124,ชัชเวศย์,แน่นดุจป้อม,ชัชเวศย์ แน่นดุจป้อม,Wealth Advisor,BR0024,princemichael@example.com,0940631381,2006-05-27,True
+EMP00125,ฐิติวุฒิ,นุชแนวนุ่ม,ฐิติวุฒิ นุชแนวนุ่ม,Wealth Advisor,BR0014,davidcole@example.net,0660196592,2025-06-25,True
+EMP00126,อุษณีย์,ผลบุญ,อุษณีย์ ผลบุญ,Branch Manager,BR0018,rollinsmichael@example.net,0631529530,2006-09-06,True
+EMP00127,วณัฐดา,ปรีชากุลเศรษฐ์,วณัฐดา ปรีชากุลเศรษฐ์,Teller,BR0020,devin19@example.net,0630478565,2011-02-09,True
+EMP00128,อัครพนธ์,นาคสุทิน,อัครพนธ์ นาคสุทิน,Relationship Manager,BR0045,laurie85@example.com,0836645569,2006-05-28,True
+EMP00129,ฐิติวุฒิ,ฉัตรอภิเที่ยงค่ำ,ฐิติวุฒิ ฉัตรอภิเที่ยงค่ำ,Wealth Advisor,BR0015,reynoldsdaniel@example.com,0924266489,2025-06-26,True
+EMP00130,ขอดิเยาะ,ดาตู,ขอดิเยาะ ดาตู,Wealth Advisor,BR0046,alejandro45@example.net,0668211482,2010-06-16,True
+EMP00131,ณาร์รีมาน,พีระเพ็ญกุล,ณาร์รีมาน พีระเพ็ญกุล,Loan Officer,BR0029,jennifermendoza@example.org,0640962915,2005-07-24,True
+EMP00132,บุญพา,ตั้งรบ,บุญพา ตั้งรบ,Loan Officer,BR0016,brownmonique@example.net,0643926261,2024-04-18,True
+EMP00133,พชรภรณ์,ตรีเภรินทร์,พชรภรณ์ ตรีเภรินทร์,Wealth Advisor,BR0046,johnsonmegan@example.com,0632391103,2011-05-31,True
+EMP00134,ณัฐธภรณ์,เลขะพันธุ์,ณัฐธภรณ์ เลขะพันธุ์,Teller,BR0018,kevin95@example.com,0949152019,2012-11-09,True
+EMP00135,ธนภณ,แหยมศิริ,ธนภณ แหยมศิริ,Wealth Advisor,BR0046,richard42@example.org,0927781196,2025-05-01,True
+EMP00136,วาร์มูฮำหมัด,ถมังรักษสัตว์,วาร์มูฮำหมัด ถมังรักษสัตว์,Loan Officer,BR0037,kpatterson@example.net,0832567806,2019-03-09,True
+EMP00137,อริสรา,ไชยภา,อริสรา ไชยภา,Wealth Advisor,BR0046,gregoryvelazquez@example.com,0931384780,2016-02-15,True
+EMP00138,ฟารินี,ธีวร,ฟารินี ธีวร,Relationship Manager,BR0050,jadecooper@example.org,0616325683,2019-07-02,True
+EMP00139,มาสิตะ,ถนัดอาวุธ,มาสิตะ ถนัดอาวุธ,Wealth Advisor,BR0018,russellerica@example.com,0930152346,2006-05-29,True
+EMP00140,อุดมลักษณ์,ทรัพย์ธำรงค์,อุดมลักษณ์ ทรัพย์ธำรงค์,Branch Manager,BR0031,oallen@example.org,0829463109,2016-01-29,True
+EMP00141,หลักทรัพย์,คำลือ,หลักทรัพย์ คำลือ,Contact Center Agent,BR0027,vincenttapia@example.com,0965209607,2016-07-19,True
+EMP00142,บุญญามี,นำธวัช,บุญญามี นำธวัช,Teller,BR0012,benjaminortiz@example.com,0910971981,2013-12-20,True
+EMP00143,อำพร,ธรรมฤดี,อำพร ธรรมฤดี,Branch Manager,BR0004,larry46@example.org,0627152813,2017-11-02,True
+EMP00144,มะสูเกียน,นาถะเดชะ,มะสูเกียน นาถะเดชะ,Branch Manager,BR0024,josephweber@example.net,0675237250,2024-04-22,True
+EMP00145,ตรีนุช,ตะละภัฏ,ตรีนุช ตะละภัฏ,Relationship Manager,BR0027,mwallace@example.com,0982290034,2014-04-10,True
+EMP00146,สุภาพร,ดวงทับทิม,สุภาพร ดวงทับทิม,Wealth Advisor,BR0014,madison53@example.org,0693639873,2013-10-25,True
+EMP00147,วิรศักดิ์,ทหารแท้,วิรศักดิ์ ทหารแท้,Relationship Manager,BR0047,bowenelizabeth@example.org,0940248270,2008-11-28,True
+EMP00148,ซุกรี,ทันยุค,ซุกรี ทันยุค,Loan Officer,BR0032,stephensonbryan@example.net,0872888554,2015-03-23,False
+EMP00149,ฟารินี,นิระหานี,ฟารินี นิระหานี,Teller,BR0027,brianakerr@example.com,0879115807,2012-12-05,True
+EMP00150,พิมพ์พิชญา,จ้อยนุแสง,พิมพ์พิชญา จ้อยนุแสง,Wealth Advisor,BR0039,rjohnson@example.org,0959077758,2008-02-12,True
+EMP00151,นิติยา,ทองสินธุ์,นิติยา ทองสินธุ์,Loan Officer,BR0004,evanseric@example.net,0669953356,2016-03-09,True
+EMP00152,คำปลิว,แหยมศิริ,คำปลิว แหยมศิริ,Contact Center Agent,BR0009,diana63@example.net,0945300609,2013-05-23,True
+EMP00153,ธนกิตต์,จันอ้น,ธนกิตต์ จันอ้น,Wealth Advisor,BR0020,uwarren@example.com,0651022409,2015-08-29,True
+EMP00154,สุชิน,ธูปหอม,สุชิน ธูปหอม,Wealth Advisor,BR0013,wardeugene@example.com,0919321146,2020-06-06,True
+EMP00155,ตอฮา,ตันตราจิณ,ตอฮา ตันตราจิณ,Teller,BR0006,susanhouston@example.org,0817054282,2016-10-27,True
+EMP00156,ฌาฆีภัตฐ์,ตวงทอง,ฌาฆีภัตฐ์ ตวงทอง,Loan Officer,BR0049,zmartin@example.org,0628386118,2010-08-15,True
+EMP00157,ปัณณวัชร,ถนิมมาศ,ปัณณวัชร ถนิมมาศ,Contact Center Agent,BR0005,qryan@example.org,0820735861,2020-10-04,True
+EMP00158,บุญเอก,นาถะเดชะ,บุญเอก นาถะเดชะ,Teller,BR0002,laura82@example.com,0670376434,2020-08-30,True
+EMP00159,เพชรมณี,แถมธน,เพชรมณี แถมธน,Teller,BR0050,contrerasrobert@example.org,0669931805,2007-07-18,True
+EMP00160,พิชาภพ,สาระพันธ์,พิชาภพ สาระพันธ์,Branch Manager,BR0018,xbarrett@example.net,0693330482,2017-10-04,True
+EMP00161,ภควัฒน์,พรสีมา,ภควัฒน์ พรสีมา,Relationship Manager,BR0017,robertmorales@example.org,0680560467,2013-11-01,True
+EMP00162,นนทกาญจน์,ตัณสถิตย์,นนทกาญจน์ ตัณสถิตย์,Teller,BR0024,vanessa01@example.com,0842667513,2013-09-01,True
+EMP00163,อัษฏา,ถนัดรักษา,อัษฏา ถนัดรักษา,Wealth Advisor,BR0036,hoodnathan@example.org,0632436864,2014-02-14,True
+EMP00164,นวรรษนันท์,สุวรรณหงษ์,นวรรษนันท์ สุวรรณหงษ์,Relationship Manager,BR0040,kharris@example.net,0962964140,2021-03-17,True
+EMP00165,ศศิรินทร์,นฤทุกข์,ศศิรินทร์ นฤทุกข์,Wealth Advisor,BR0015,elizabethlucero@example.org,0922253195,2022-02-02,True
+EMP00166,ธมลพรรณ,ราชมณี,ธมลพรรณ ราชมณี,Teller,BR0029,joel29@example.net,0914179708,2016-03-13,True
+EMP00167,พุทธิพงษ์,แจ้งสว่าง,พุทธิพงษ์ แจ้งสว่าง,Wealth Advisor,BR0019,benjamin47@example.net,0813848655,2006-10-05,True
+EMP00168,ปิยะชาติ,ฉัพพรรณธนกูร,ปิยะชาติ ฉัพพรรณธนกูร,Contact Center Agent,BR0012,richard05@example.net,0669542874,2022-08-31,True
+EMP00169,ประยุทธ์,ถิรสวัสดิ์,ประยุทธ์ ถิรสวัสดิ์,Branch Manager,BR0007,nicholas79@example.com,0968302458,2008-10-28,True
+EMP00170,อรุณี,กุมารบุญ,อรุณี กุมารบุญ,Branch Manager,BR0045,jamiebowen@example.org,0810797229,2017-08-23,True
+EMP00171,ขอดิเยาะ,ตั้งกุลงาม,ขอดิเยาะ ตั้งกุลงาม,Wealth Advisor,BR0041,wisesteven@example.com,0919373671,2018-11-26,True
+EMP00172,สมนึก,ถนัดอักษร,สมนึก ถนัดอักษร,Teller,BR0027,hbush@example.com,0983269057,2021-02-23,True
+EMP00173,นิมุ,ทุมะบุตร์,นิมุ ทุมะบุตร์,Teller,BR0015,joseph19@example.com,0625522945,2011-12-07,True
+EMP00174,นนทกาญจน์,ศิวะวรเวท,นนทกาญจน์ ศิวะวรเวท,Wealth Advisor,BR0002,melissadixon@example.org,0648516713,2022-11-02,True
+EMP00175,พิไลพร,นะวะมันดร,พิไลพร นะวะมันดร,Teller,BR0002,glenda76@example.net,0964539283,2021-06-25,True
+EMP00176,สโรชา,ธีวร,สโรชา ธีวร,Contact Center Agent,BR0046,jeffreyellis@example.net,0914457092,2023-06-03,True
+EMP00177,พิศพรรณ,ดีตพันธุ์,พิศพรรณ ดีตพันธุ์,Relationship Manager,BR0027,whitney61@example.org,0694743930,2014-10-11,True
+EMP00178,ไพสิฐ,เนื่องนนท์,ไพสิฐ เนื่องนนท์,Relationship Manager,BR0035,leslie49@example.com,0874219359,2010-10-25,True
+EMP00179,ปิยะนันท์,ตั้งรบ,ปิยะนันท์ ตั้งรบ,Loan Officer,BR0014,mooreshelby@example.org,0853094504,2017-12-26,True
+EMP00180,สิราพร,ธรรมสถิตไพศาล,สิราพร ธรรมสถิตไพศาล,Wealth Advisor,BR0035,rojasjustin@example.org,0976807341,2025-08-22,True
+EMP00181,วรปรัชญ์,อุลหัสสา,วรปรัชญ์ อุลหัสสา,Contact Center Agent,BR0005,mindyclark@example.org,0993864155,2006-07-12,True
+EMP00182,ประภัทร์สรณ์,พีระเพ็ญกุล,ประภัทร์สรณ์ พีระเพ็ญกุล,Loan Officer,BR0019,nicolewilson@example.org,0961910033,2009-09-25,True
+EMP00183,เอกอธิพงษ์,โพธิสัตย์,เอกอธิพงษ์ โพธิสัตย์,Teller,BR0005,bmorgan@example.net,0656867952,2010-11-23,True
+EMP00184,อาฮามัด,ถาวรายุศม์,อาฮามัด ถาวรายุศม์,Relationship Manager,BR0020,castillofrank@example.net,0996291946,2005-12-27,True
+EMP00185,ณัฐจศักดิ์,ตันตราจิณ,ณัฐจศักดิ์ ตันตราจิณ,Loan Officer,BR0034,eric90@example.org,0856576002,2021-12-11,True
+EMP00186,ณาร์รีมาน,นวลฉวี,ณาร์รีมาน นวลฉวี,Relationship Manager,BR0009,vcunningham@example.org,0916771103,2014-01-15,True
+EMP00187,บุญทิวา,ตรีเภรินทร์,บุญทิวา ตรีเภรินทร์,Loan Officer,BR0030,huffmanmakayla@example.net,0847699669,2018-01-19,True
+EMP00188,ธวัศชา,บินดี,ธวัศชา บินดี,Loan Officer,BR0024,zjacobson@example.com,0860036742,2025-06-29,True
+EMP00189,ธัญญามาศ,แนวพนิช,ธัญญามาศ แนวพนิช,Contact Center Agent,BR0043,stephaniemckinney@example.net,0880975449,2021-05-02,True
+EMP00190,นรีรัตน์,นิลวรรณ,นรีรัตน์ นิลวรรณ,Branch Manager,BR0007,brittany76@example.com,0867626957,2015-10-24,True
+EMP00191,สิริรัตน์,ถนัดการยนต์,สิริรัตน์ ถนัดการยนต์,Branch Manager,BR0050,jjefferson@example.net,0964505811,2020-05-01,True
+EMP00192,รวิวาน,ไทยสุชาต,รวิวาน ไทยสุชาต,Loan Officer,BR0022,bakerdebbie@example.com,0929687938,2005-07-18,True
+EMP00193,กรพนธ์,ทวีเดช,กรพนธ์ ทวีเดช,Loan Officer,BR0043,lauren40@example.net,0883555191,2011-09-29,True
+EMP00194,อริสรา,มนทอง,อริสรา มนทอง,Loan Officer,BR0014,jenkinsmichele@example.com,0942869054,2017-02-23,True
+EMP00195,ภาสินี,นิระหานี,ภาสินี นิระหานี,Loan Officer,BR0020,phillipsanna@example.com,0866228067,2021-11-23,True
+EMP00196,คำ,จันทา,คำ จันทา,Teller,BR0005,qlopez@example.org,0681463920,2024-10-16,True
+EMP00197,ฐิติณัฐฐา,ร่มธิติรัตน์,ฐิติณัฐฐา ร่มธิติรัตน์,Wealth Advisor,BR0006,stephensantana@example.org,0948761455,2010-05-30,True
+EMP00198,เรืองเกียรติ,นักรบ,เรืองเกียรติ นักรบ,Loan Officer,BR0022,james98@example.com,0921094072,2026-04-23,True
+EMP00199,พชรภรณ์,ดาวอร่าม,พชรภรณ์ ดาวอร่าม,Contact Center Agent,BR0050,npham@example.com,0675037047,2021-02-14,True
+EMP00200,วัลลภ,เขียวอ่อน,วัลลภ เขียวอ่อน,Teller,BR0015,nyork@example.net,0654574064,2006-05-14,True
+EMP00201,พีรพัฒน์,ถาวรายุศม์,พีรพัฒน์ ถาวรายุศม์,Loan Officer,BR0002,tgreene@example.net,0688633595,2021-08-20,True
+EMP00202,หล้า,ถนัดพิมพการ,หล้า ถนัดพิมพการ,Contact Center Agent,BR0027,laura90@example.net,0844489372,2012-07-21,True
+EMP00203,ปัณณธร,วะคีมัน,ปัณณธร วะคีมัน,Relationship Manager,BR0029,jenniferroberson@example.com,0884007925,2016-01-25,True
+EMP00204,ยุศรอน,ถนัดรบ,ยุศรอน ถนัดรบ,Loan Officer,BR0045,tylerfrench@example.net,0871470552,2019-07-03,True
+EMP00205,ณัฐพิชา,ธีวร,ณัฐพิชา ธีวร,Contact Center Agent,BR0023,tammypham@example.org,0834148688,2014-05-15,True
+EMP00206,วณัฐดา,ตั้งเผ่า,วณัฐดา ตั้งเผ่า,Loan Officer,BR0032,lanevalerie@example.org,0624855262,2017-07-27,True
+EMP00207,เพ็ญยุภา,ถมปัด,เพ็ญยุภา ถมปัด,Contact Center Agent,BR0050,thomas45@example.com,0883101892,2020-01-01,True
+EMP00208,ยุลิน,นิลสลัว,ยุลิน นิลสลัว,Wealth Advisor,BR0035,whitneybenjamin@example.net,0685196098,2021-07-30,True
+EMP00209,คมกริบ,สุวรรณหงษ์,คมกริบ สุวรรณหงษ์,Relationship Manager,BR0012,piercetraci@example.net,0888535680,2025-10-09,True
+EMP00210,ธัญญกัญญา,ดาวกระจาย,ธัญญกัญญา ดาวกระจาย,Contact Center Agent,BR0004,rachelmontoya@example.com,0843221873,2007-06-05,True
+EMP00211,ภานุวัตร,ตัณสถิตย์,ภานุวัตร ตัณสถิตย์,Relationship Manager,BR0022,christinagarcia@example.org,0682665079,2018-01-05,True
+EMP00212,วิชา,วุฑฒยากร,วิชา วุฑฒยากร,Relationship Manager,BR0035,nunezpatricia@example.net,0979506290,2005-10-17,True
+EMP00213,ยศพงศ์,ผลบุญ,ยศพงศ์ ผลบุญ,Wealth Advisor,BR0036,cgay@example.org,0841756844,2025-08-12,True
+EMP00214,ภาสินี,ศิวะวรเวท,ภาสินี ศิวะวรเวท,Teller,BR0040,alejandroroberts@example.org,0634913877,2010-09-11,True
+EMP00215,เพทาย,ตวันเยี่ยม,เพทาย ตวันเยี่ยม,Teller,BR0010,jeremy71@example.com,0976067985,2012-10-10,True
+EMP00216,มารีนี,ชุมวระ,มารีนี ชุมวระ,Loan Officer,BR0031,adamschristopher@example.org,0846988745,2006-05-25,True
+EMP00217,นพ,สงประเสริฐ,นพ สงประเสริฐ,Relationship Manager,BR0004,cherylwright@example.com,0956790963,2024-09-02,True
+EMP00218,อธิวัตร,จันทา,อธิวัตร จันทา,Branch Manager,BR0028,alexandersmith@example.net,0886312371,2006-10-17,True
+EMP00219,สิริรัตน์,นฤภัย,สิริรัตน์ นฤภัย,Wealth Advisor,BR0009,osbornedarin@example.org,0630789840,2006-09-20,True
+EMP00220,ตอฮา,ศรีตะวัน,ตอฮา ศรีตะวัน,Teller,BR0043,heathercurry@example.net,0614704634,2017-06-28,True
+EMP00221,เกษตร,ธรรมเมธา,เกษตร ธรรมเมธา,Branch Manager,BR0003,james19@example.com,0825257101,2014-04-27,True
+EMP00222,เชิงชาย,แน่นดุจป้อม,เชิงชาย แน่นดุจป้อม,Teller,BR0034,atorres@example.org,0695922693,2021-12-14,True
+EMP00223,หฤทัย,ถนัดรักษา,หฤทัย ถนัดรักษา,Relationship Manager,BR0038,paul10@example.org,0676426242,2016-04-10,True
+EMP00224,แปลง,เขียวอ่อน,แปลง เขียวอ่อน,Branch Manager,BR0048,robin71@example.org,0919747961,2008-08-15,True
+EMP00225,ซูฮัยดา,นิยมธรรม,ซูฮัยดา นิยมธรรม,Branch Manager,BR0025,gcastro@example.net,0869286108,2007-01-05,True
+EMP00226,ธวัศชา,ธาราธร,ธวัศชา ธาราธร,Teller,BR0032,jyang@example.com,0674302955,2012-09-09,True
+EMP00227,ณิชาภัทร,เนตร์มณี,ณิชาภัทร เนตร์มณี,Loan Officer,BR0028,robinsmith@example.org,0636011442,2012-06-07,True
+EMP00228,วิรชัย,วุฑฒยากร,วิรชัย วุฑฒยากร,Teller,BR0035,reidchristopher@example.org,0641259601,2014-12-12,True
+EMP00229,อัญพัชร์,ปานสุวรรณ,อัญพัชร์ ปานสุวรรณ,Wealth Advisor,BR0019,kevin33@example.net,0966052830,2017-01-07,True
+EMP00230,วิชชากร,นาถะพินธุ,วิชชากร นาถะพินธุ,Wealth Advisor,BR0018,danielle18@example.com,0658187834,2021-01-25,True
+EMP00231,รชตกร,พรรษาสกุล,รชตกร พรรษาสกุล,Contact Center Agent,BR0047,kspencer@example.org,0935580665,2005-10-08,True
+EMP00232,เยาวรัตน์,แก้วอยู่,เยาวรัตน์ แก้วอยู่,Relationship Manager,BR0023,davidmcpherson@example.net,0971473996,2008-07-31,True
+EMP00233,บุญเอก,นาถะพินธุ,บุญเอก นาถะพินธุ,Relationship Manager,BR0010,greenhunter@example.net,0998104789,2024-01-27,True
+EMP00234,วิถี,ทองเนื้อดี,วิถี ทองเนื้อดี,Teller,BR0045,cole61@example.org,0679235906,2015-06-01,True
+EMP00235,พิมพ์สุตา,นิระหานี,พิมพ์สุตา นิระหานี,Loan Officer,BR0047,anna76@example.net,0869362395,2024-12-02,True
+EMP00236,สมปอง,ขุนดำ,สมปอง ขุนดำ,Contact Center Agent,BR0010,andrew98@example.com,0921298491,2009-03-12,True
+EMP00237,เฉลิมรัฐ,ถนัดรบ,เฉลิมรัฐ ถนัดรบ,Wealth Advisor,BR0016,awest@example.net,0637980477,2010-11-01,True
+EMP00238,พงษ์นเรศ,ดัตพันธุ์,พงษ์นเรศ ดัตพันธุ์,Branch Manager,BR0032,wilsonjoseph@example.com,0695228432,2013-01-16,True
+EMP00239,ภัทรนาฎ,ธูปะวิโรจน์,ภัทรนาฎ ธูปะวิโรจน์,Wealth Advisor,BR0029,icampbell@example.net,0935845656,2024-08-07,True
+EMP00240,พงษ์นเรศ,อุลหัสสา,พงษ์นเรศ อุลหัสสา,Loan Officer,BR0015,tbranch@example.org,0892914280,2012-01-21,False
+EMP00241,อัษฏา,ชำนาญวาด,อัษฏา ชำนาญวาด,Relationship Manager,BR0010,brendarussell@example.org,0834405521,2016-03-26,True
+EMP00242,ชลิดา,วาทา,ชลิดา วาทา,Wealth Advisor,BR0036,kelseymartinez@example.com,0912837994,2009-07-02,True
+EMP00243,สุรการณ์,ถนัดรักษา,สุรการณ์ ถนัดรักษา,Branch Manager,BR0044,craig28@example.com,0610912513,2010-12-15,True
+EMP00244,สุรนีย์,แหยมศิริ,สุรนีย์ แหยมศิริ,Branch Manager,BR0038,jorge09@example.org,0887520397,2016-07-12,True
+EMP00245,รชตกร,อุลหัสสา,รชตกร อุลหัสสา,Wealth Advisor,BR0035,david46@example.com,0625646335,2017-07-20,True
+EMP00246,ศศิยา,ศาสตร์ศิลป์,ศศิยา ศาสตร์ศิลป์,Loan Officer,BR0018,thernandez@example.org,0822041641,2010-10-14,True
+EMP00247,สินสมุทร,ศรทอง,สินสมุทร ศรทอง,Contact Center Agent,BR0004,hadams@example.net,0941672200,2008-03-12,True
+EMP00248,ดวงสมร,นิลวรรณ,ดวงสมร นิลวรรณ,Relationship Manager,BR0044,matthew65@example.net,0954871169,2022-10-19,True
+EMP00249,มัตติกา,ดุษฎีวนิช,มัตติกา ดุษฎีวนิช,Teller,BR0018,aprilhenry@example.org,0818803690,2023-10-15,True
+EMP00250,พลภูมิ,ภูภักดี,พลภูมิ ภูภักดี,Teller,BR0021,ryan74@example.net,0855764720,2008-02-12,True
+EMP00251,สุรนีย์,ทองลาภ,สุรนีย์ ทองลาภ,Relationship Manager,BR0037,arice@example.com,0879394010,2025-12-05,True
+EMP00252,ศภัคชคง,ฉิมพาลี,ศภัคชคง ฉิมพาลี,Teller,BR0015,fordpatricia@example.org,0622154829,2022-12-31,True
+EMP00253,พัชรีนิษฐ์,มนทอง,พัชรีนิษฐ์ มนทอง,Relationship Manager,BR0001,riverapaul@example.org,0632548565,2009-05-18,True
+EMP00254,สุกฤษตา,เจริญรัมย์,สุกฤษตา เจริญรัมย์,Branch Manager,BR0005,knappmonique@example.net,0641131519,2021-07-29,True
+EMP00255,วุฒิ,นำธวัช,วุฒิ นำธวัช,Relationship Manager,BR0012,reevesrebekah@example.org,0825475583,2013-10-28,True
+EMP00256,ฌาฆีภัตฐ์,ตวงทอง,ฌาฆีภัตฐ์ ตวงทอง,Relationship Manager,BR0020,zwolf@example.net,0669028155,2022-05-14,True
+EMP00257,กรพนธ์,บุญญาภิรมย์,กรพนธ์ บุญญาภิรมย์,Contact Center Agent,BR0040,ashley45@example.com,0685175424,2010-07-23,True
+EMP00258,จำรัส,ทองแท้,จำรัส ทองแท้,Relationship Manager,BR0043,nperry@example.net,0658243738,2018-11-13,True
+EMP00259,ยุลิน,ถาวระวรณ์,ยุลิน ถาวระวรณ์,Branch Manager,BR0040,aaron61@example.net,0915328118,2012-03-23,True
+EMP00260,ฟิรยา,ศาสตร์ศิลป์,ฟิรยา ศาสตร์ศิลป์,Branch Manager,BR0025,grayelizabeth@example.org,0623792902,2009-05-30,True
+EMP00261,ทินวัฒน์,ยางสวย,ทินวัฒน์ ยางสวย,Branch Manager,BR0033,dennisroberts@example.com,0685066305,2015-05-06,True
+EMP00262,สราญจิตต์,ตันเผ่า,สราญจิตต์ ตันเผ่า,Contact Center Agent,BR0004,courtney64@example.com,0628405655,2020-03-26,True
+EMP00263,สิทธัญ,นิติสาขา,สิทธัญ นิติสาขา,Branch Manager,BR0023,smithdustin@example.com,0887861270,2024-03-05,True
+EMP00264,สันติราษฎร์,ฉายแสง,สันติราษฎร์ ฉายแสง,Relationship Manager,BR0033,etorres@example.org,0898652166,2022-03-24,True
+EMP00265,เขมจิรา,นพคเชนทร์,เขมจิรา นพคเชนทร์,Contact Center Agent,BR0042,jennifer50@example.org,0694866569,2007-09-06,True
+EMP00266,วิทูลย์,นิลสุวรรณ์,วิทูลย์ นิลสุวรรณ์,Relationship Manager,BR0002,nicholsonbenjamin@example.net,0642602523,2015-08-24,True
+EMP00267,ศดิศ,นาคพันธุ์,ศดิศ นาคพันธุ์,Wealth Advisor,BR0026,zmullen@example.com,0665925152,2010-02-07,True
+EMP00268,นพรัตน์,ปานสุวรรณ,นพรัตน์ ปานสุวรรณ,Branch Manager,BR0039,cgill@example.net,0858526962,2015-08-14,True
+EMP00269,เจตพินิษฐ์,นุชแนวนุ่ม,เจตพินิษฐ์ นุชแนวนุ่ม,Loan Officer,BR0030,kristen65@example.net,0929790330,2010-07-14,True
+EMP00270,ยุภา,ดวงทับทิม,ยุภา ดวงทับทิม,Loan Officer,BR0008,monroechristopher@example.com,0890370039,2022-05-26,True
+EMP00271,ปฐม,แจ้งสว่าง,ปฐม แจ้งสว่าง,Branch Manager,BR0044,raymond92@example.com,0893396030,2016-05-12,True
+EMP00272,นรีรัตน์,ซาซุม,นรีรัตน์ ซาซุม,Loan Officer,BR0012,oscar67@example.com,0643979316,2012-08-20,True
+EMP00273,กันตวรรณ,สุวรรณหงษ์,กันตวรรณ สุวรรณหงษ์,Contact Center Agent,BR0032,obest@example.com,0634462283,2013-07-22,True
+EMP00274,เพ็ญยุภา,ตวงทอง,เพ็ญยุภา ตวงทอง,Teller,BR0010,pearsonmary@example.org,0842953117,2013-05-28,True
+EMP00275,นันทวุฒิ,ดีตพันธุ์,นันทวุฒิ ดีตพันธุ์,Wealth Advisor,BR0012,fisherdouglas@example.com,0972927616,2024-07-11,True
+EMP00276,มณียา,บุญบำรุง,มณียา บุญบำรุง,Relationship Manager,BR0010,millermichael@example.com,0998711109,2008-12-18,True
+EMP00277,รูไกยะฮ์,หิรัญสาลี,รูไกยะฮ์ หิรัญสาลี,Relationship Manager,BR0003,pottermark@example.org,0915130247,2016-04-14,True
+EMP00278,กษิดิฐ,บุญญาภิรมย์,กษิดิฐ บุญญาภิรมย์,Teller,BR0039,vasquezricky@example.org,0996608582,2017-06-25,True
+EMP00279,สุมัชญา,บุนยาภิสนท์,สุมัชญา บุนยาภิสนท์,Teller,BR0041,charles13@example.com,0899822101,2018-04-10,True
+EMP00280,ญาณพันธุ์,นะวะมันดร,ญาณพันธุ์ นะวะมันดร,Branch Manager,BR0033,smithnicole@example.net,0614367898,2006-09-06,True
+EMP00281,กฤตเมธ,นักสำหรวจ,กฤตเมธ นักสำหรวจ,Wealth Advisor,BR0008,elizabethgray@example.org,0845440521,2012-02-20,True
+EMP00282,อดิสรณ์,ถนัดภาษา,อดิสรณ์ ถนัดภาษา,Contact Center Agent,BR0039,johnsontyler@example.org,0685854113,2008-11-04,True
+EMP00283,สนั่น,เณรานุสนธิ์,สนั่น เณรานุสนธิ์,Loan Officer,BR0003,haileyhart@example.com,0932939518,2012-02-03,True
+EMP00284,โกมล,ถาวรายุศม์,โกมล ถาวรายุศม์,Relationship Manager,BR0015,hamptonmelissa@example.com,0852537239,2022-03-07,True
+EMP00285,บุญญามี,ถาวระวรณ์,บุญญามี ถาวระวรณ์,Relationship Manager,BR0008,louis52@example.com,0987793532,2020-03-05,True
+EMP00286,ใกล้รุ่ง,นครเทพ,ใกล้รุ่ง นครเทพ,Contact Center Agent,BR0021,rmckinney@example.net,0946971892,2025-06-08,True
+EMP00287,นาตยา,คำลือ,นาตยา คำลือ,Wealth Advisor,BR0044,anitalawrence@example.com,0952183716,2008-09-02,True
+EMP00288,ปิยนุช,เณรานุสนธิ์,ปิยนุช เณรานุสนธิ์,Branch Manager,BR0042,nicole27@example.net,0611318182,2006-12-11,True
+EMP00289,วีระวัฒน์,แก้วอยู่,วีระวัฒน์ แก้วอยู่,Contact Center Agent,BR0036,kristie63@example.org,0634603563,2007-01-08,True
+EMP00290,ยศพนต์,วุฑฒยากร,ยศพนต์ วุฑฒยากร,Wealth Advisor,BR0028,ijohnson@example.com,0876881850,2007-09-26,True
+EMP00291,ภารวี,นครเทพ,ภารวี นครเทพ,Contact Center Agent,BR0048,lowescott@example.org,0853987164,2022-05-30,True
+EMP00292,อณัฐตา,นานายน,อณัฐตา นานายน,Wealth Advisor,BR0027,tbrown@example.net,0914158802,2020-03-25,True
+EMP00293,ยูซุฟ,ทวนทอง,ยูซุฟ ทวนทอง,Wealth Advisor,BR0027,uharvey@example.org,0887917699,2015-09-04,True
+EMP00294,นารดา,ธาราธร,นารดา ธาราธร,Wealth Advisor,BR0007,thomasjodi@example.org,0829412305,2007-08-27,True
+EMP00295,วันฉัตร,ธรรมเมธา,วันฉัตร ธรรมเมธา,Teller,BR0028,jjames@example.net,0882434674,2019-12-23,True
+EMP00296,อันธิกา,ไตรบรรพ,อันธิกา ไตรบรรพ,Loan Officer,BR0017,idouglas@example.org,0880705003,2015-07-08,True
+EMP00297,มาโนชญ์,ธูปะวิโรจน์,มาโนชญ์ ธูปะวิโรจน์,Contact Center Agent,BR0002,davidchavez@example.com,0930511684,2006-05-21,True
+EMP00298,พศร,ธาราธร,พศร ธาราธร,Loan Officer,BR0030,kellylaura@example.com,0628379439,2005-04-05,True
+EMP00299,สมปอง,ติระคมน์,สมปอง ติระคมน์,Wealth Advisor,BR0003,bvaldez@example.net,0931092576,2025-08-10,True
+EMP00300,นิติยา,หนุนสุข,นิติยา หนุนสุข,Relationship Manager,BR0008,psmith@example.org,0816779646,2021-01-10,True
+EMP00301,ประสิทธิ์,ธัญเสถียร,ประสิทธิ์ ธัญเสถียร,Branch Manager,BR0016,suttonsarah@example.com,0887865018,2018-09-25,True
+EMP00302,หฤทัย,นุ่มกัน,หฤทัย นุ่มกัน,Loan Officer,BR0024,villegasdavid@example.net,0959982634,2016-05-09,True
+EMP00303,วาสุเทพ,ศรีธนะเวทย์,วาสุเทพ ศรีธนะเวทย์,Contact Center Agent,BR0022,stevensonamber@example.com,0948176817,2007-11-09,True
+EMP00304,ฟิรยา,ดำริห์ชอบ,ฟิรยา ดำริห์ชอบ,Wealth Advisor,BR0050,stewartkathy@example.net,0885802576,2006-06-16,True
+EMP00305,จักรีรัตน์,จันทา,จักรีรัตน์ จันทา,Teller,BR0021,lisa72@example.net,0665866362,2012-05-15,True
+EMP00306,นิติ,ถ้วนศรี,นิติ ถ้วนศรี,Branch Manager,BR0045,jack52@example.net,0865866995,2025-06-27,True
+EMP00307,เนตรฤดี,นานายน,เนตรฤดี นานายน,Teller,BR0009,heathlisa@example.com,0915498874,2011-01-24,True
+EMP00308,ประยุทธ์,ทองปากน้ำ,ประยุทธ์ ทองปากน้ำ,Teller,BR0050,derricksanders@example.org,0951678903,2012-01-18,True
+EMP00309,ถนอมชัย,นุ่มกัน,ถนอมชัย นุ่มกัน,Teller,BR0017,richardmartinez@example.org,0996132345,2023-12-08,True
+EMP00310,เฉลิมพล,ทวนทอง,เฉลิมพล ทวนทอง,Branch Manager,BR0047,anna27@example.org,0664537071,2024-09-15,True
+EMP00311,เทพณรงค์,ถ้วนศรี,เทพณรงค์ ถ้วนศรี,Branch Manager,BR0045,caseydonna@example.org,0918631029,2015-12-19,True
+EMP00312,แกมแพร,เยาวธนโชค,แกมแพร เยาวธนโชค,Wealth Advisor,BR0035,kellywilliams@example.net,0921392119,2008-06-23,True
+EMP00313,เทพณรงค์,เณรานุสนธิ์,เทพณรงค์ เณรานุสนธิ์,Relationship Manager,BR0038,dylanjuarez@example.org,0858908262,2012-07-02,True
+EMP00314,เพชรมณี,ขันธุลา,เพชรมณี ขันธุลา,Branch Manager,BR0044,uheath@example.org,0973760226,2020-02-14,True
+EMP00315,นิวิลดาน,ศรีสัตย์,นิวิลดาน ศรีสัตย์,Contact Center Agent,BR0035,xwilson@example.com,0814772244,2017-01-23,True
+EMP00316,บุญญกัลป์,ทวนทอง,บุญญกัลป์ ทวนทอง,Relationship Manager,BR0037,dana30@example.com,0684394223,2021-01-26,True
+EMP00317,สุพัตร,ธูปหอม,สุพัตร ธูปหอม,Teller,BR0048,matthewhenry@example.com,0685833206,2021-12-03,True
+EMP00318,สุภาลินี,ถมปัด,สุภาลินี ถมปัด,Relationship Manager,BR0023,kara57@example.org,0966713878,2012-12-16,True
+EMP00319,ดวงพร,บุนยะตีรณะ,ดวงพร บุนยะตีรณะ,Relationship Manager,BR0003,adamsjames@example.org,0832199472,2017-12-15,True
+EMP00320,ผกาทิพย์,ศรทอง,ผกาทิพย์ ศรทอง,Loan Officer,BR0008,prichards@example.net,0913886613,2023-09-08,True
+EMP00321,ณภัทร,ธนประทีป,ณภัทร ธนประทีป,Wealth Advisor,BR0049,thomasward@example.net,0827389073,2020-03-14,True
+EMP00322,สรรเพชญ์,นิยมเซียม,สรรเพชญ์ นิยมเซียม,Wealth Advisor,BR0032,vincent91@example.com,0872058088,2021-05-04,True
+EMP00323,น้ำเพชร,แต้กุล,น้ำเพชร แต้กุล,Relationship Manager,BR0008,uhull@example.com,0611466759,2018-01-13,True
+EMP00324,สุธินันท์,นครเทพ,สุธินันท์ นครเทพ,Relationship Manager,BR0021,bryanschmidt@example.com,0972763211,2009-05-17,True
+EMP00325,ชัฎชา,ผลบุญ,ชัฎชา ผลบุญ,Loan Officer,BR0035,laura70@example.net,0889879276,2011-04-12,True
+EMP00326,สุธาวี,ปรีชากุลเศรษฐ์,สุธาวี ปรีชากุลเศรษฐ์,Branch Manager,BR0027,nicholscaitlin@example.net,0666915210,2006-05-19,True
+EMP00327,อัษฏา,ถนอมกุลบุตร,อัษฏา ถนอมกุลบุตร,Branch Manager,BR0031,barbershawn@example.org,0850419027,2025-05-11,True
+EMP00328,ศศิธร,สงประเสริฐ,ศศิธร สงประเสริฐ,Branch Manager,BR0028,thomasrivera@example.org,0614910449,2011-03-25,True
+EMP00329,พันเทพ,ฉัตรอภิเที่ยงค่ำ,พันเทพ ฉัตรอภิเที่ยงค่ำ,Wealth Advisor,BR0041,klewis@example.net,0961567336,2016-11-24,True
+EMP00330,อุษณีย์,ตวันเยี่ยม,อุษณีย์ ตวันเยี่ยม,Wealth Advisor,BR0022,wilsonjared@example.net,0678356512,2007-11-21,True
+EMP00331,ยุศรอน,ทันยุค,ยุศรอน ทันยุค,Relationship Manager,BR0020,georgebarry@example.net,0632208644,2006-10-24,True
+EMP00332,ธัญญามาศ,สุวรรณหงษ์,ธัญญามาศ สุวรรณหงษ์,Branch Manager,BR0027,kenneth98@example.net,0994985521,2021-03-24,True
+EMP00333,สราญจิตต์,ถนัดกลึง,สราญจิตต์ ถนัดกลึง,Loan Officer,BR0012,timothyaustin@example.net,0830957732,2017-06-29,True
+EMP00334,สินสมุทร,สงประเสริฐ,สินสมุทร สงประเสริฐ,Contact Center Agent,BR0023,ericamarquez@example.com,0680938625,2021-03-05,True
+EMP00335,จณิตตา,คณานุรักษ์,จณิตตา คณานุรักษ์,Loan Officer,BR0042,danielnixon@example.com,0917798701,2024-04-30,True
+EMP00336,เพ็ญยุภา,วะคีมัน,เพ็ญยุภา วะคีมัน,Loan Officer,BR0018,janet60@example.org,0647650338,2024-06-28,True
+EMP00337,ตอฮา,ถนัดรบ,ตอฮา ถนัดรบ,Loan Officer,BR0026,rgordon@example.org,0647575245,2005-09-20,True
+EMP00338,ณัฐธิตา,เตชะกำพุ,ณัฐธิตา เตชะกำพุ,Loan Officer,BR0026,vanessajenkins@example.com,0696269485,2006-05-24,True
+EMP00339,อรจิรา,นฤภัย,อรจิรา นฤภัย,Teller,BR0016,laura57@example.net,0651631464,2022-01-21,True
+EMP00340,ดารุนี,ธีวร,ดารุนี ธีวร,Contact Center Agent,BR0028,brittany63@example.net,0871371070,2020-04-13,True
+EMP00341,ภควัฒน์,นิลสลัว,ภควัฒน์ นิลสลัว,Contact Center Agent,BR0024,hannahscott@example.net,0959130436,2014-01-30,True
+EMP00342,รมิตา,ทองอยู่,รมิตา ทองอยู่,Wealth Advisor,BR0021,jasmine97@example.net,0998919912,2006-02-09,True
+EMP00343,สุทธิพจน์,ฉิมพาลี,สุทธิพจน์ ฉิมพาลี,Relationship Manager,BR0002,lisa90@example.org,0846859650,2012-10-24,True
+EMP00344,กุลภาวลัย,นามเสวตร,กุลภาวลัย นามเสวตร,Contact Center Agent,BR0006,gayantonio@example.com,0993570490,2011-08-15,True
+EMP00345,มลิวรรณ,ธรรมฤดี,มลิวรรณ ธรรมฤดี,Branch Manager,BR0005,morrisonsean@example.com,0821075378,2020-06-12,True
+EMP00346,โอภาส,ประจันตะเสน,โอภาส ประจันตะเสน,Wealth Advisor,BR0008,bernardgonzalez@example.com,0971787089,2007-02-05,True
+EMP00347,ณัฐจศักดิ์,นุ่มกัน,ณัฐจศักดิ์ นุ่มกัน,Relationship Manager,BR0012,stephanieclayton@example.net,0646491780,2013-01-13,True
+EMP00348,เจตพินิษฐ์,แก้วอยู่,เจตพินิษฐ์ แก้วอยู่,Contact Center Agent,BR0015,ldalton@example.com,0850036024,2006-04-03,True
+EMP00349,นภนต์,ศรีสัตย์,นภนต์ ศรีสัตย์,Branch Manager,BR0006,stephen25@example.com,0853927192,2005-02-08,True
+EMP00350,วสิตา,ธนูปกรณ์,วสิตา ธนูปกรณ์,Branch Manager,BR0002,bryan68@example.net,0962904869,2019-04-14,True
+EMP00351,หลี,ไชยภา,หลี ไชยภา,Teller,BR0034,ishea@example.net,0670136365,2020-03-31,True
+EMP00352,โรสชา,เขียวอ่อน,โรสชา เขียวอ่อน,Wealth Advisor,BR0030,jessicagreen@example.com,0937580284,2016-06-24,True
+EMP00353,โกมล,ทับทิมไทย,โกมล ทับทิมไทย,Loan Officer,BR0022,keithbryan@example.com,0693339949,2024-10-11,True
+EMP00354,วนาลี,ตั้งกุลงาม,วนาลี ตั้งกุลงาม,Teller,BR0016,hbranch@example.com,0669243340,2005-07-12,True
+EMP00355,โอภาส,บุญญาไลย์,โอภาส บุญญาไลย์,Wealth Advisor,BR0013,hadkins@example.org,0829503305,2025-02-02,True
+EMP00356,เฉลิมพล,ตวันเยี่ยม,เฉลิมพล ตวันเยี่ยม,Wealth Advisor,BR0013,xho@example.com,0914612315,2026-01-15,True
+EMP00357,พรเบญญา,พรรษาสกุล,พรเบญญา พรรษาสกุล,Teller,BR0046,danielleanderson@example.net,0613543303,2019-04-05,True
+EMP00358,ดวงจันทร์,นับเนื่องนอ,ดวงจันทร์ นับเนื่องนอ,Teller,BR0014,samuelcamacho@example.org,0924897428,2009-04-17,True
+EMP00359,พรรณปพร,เดชคุ้ม,พรรณปพร เดชคุ้ม,Branch Manager,BR0046,robinsonedward@example.org,0952078094,2009-08-25,True
+EMP00360,วันฉัตร,นับเนื่องนอ,วันฉัตร นับเนื่องนอ,Relationship Manager,BR0017,vburke@example.org,0820734435,2024-02-19,True
+EMP00361,อุลัยพร,ขุนดำ,อุลัยพร ขุนดำ,Relationship Manager,BR0034,kwatson@example.net,0855754676,2016-01-15,True
+EMP00362,พิมพ์สุตา,ร่มธิติรัตน์,พิมพ์สุตา ร่มธิติรัตน์,Branch Manager,BR0023,eric44@example.net,0825288533,2010-02-16,True
+EMP00363,ศุภกรชนา,ตวงทอง,ศุภกรชนา ตวงทอง,Branch Manager,BR0013,wjordan@example.org,0917557578,2023-07-10,True
+EMP00364,อนุวัช,นะวะมันดร,อนุวัช นะวะมันดร,Loan Officer,BR0043,cynthia13@example.com,0636710736,2008-12-09,True
+EMP00365,อธิตยา,แจ้งสว่าง,อธิตยา แจ้งสว่าง,Teller,BR0027,erika81@example.com,0833687004,2025-09-17,True
+EMP00366,เจตธนากร,แต้กุล,เจตธนากร แต้กุล,Contact Center Agent,BR0026,jerrycurtis@example.com,0977920440,2020-01-24,True
+EMP00367,อำไพ,ทองอยู่,อำไพ ทองอยู่,Loan Officer,BR0006,gregorygreen@example.com,0615924596,2021-01-20,True
+EMP00368,ภาสินี,ดุริยพันธุ์,ภาสินี ดุริยพันธุ์,Relationship Manager,BR0008,jeffreykramer@example.com,0828903218,2023-08-23,True
+EMP00369,นาวีตา,ธีวร,นาวีตา ธีวร,Teller,BR0027,paynealexis@example.com,0863090036,2022-10-30,False
+EMP00370,ทินวัฒน์,ดาตู,ทินวัฒน์ ดาตู,Contact Center Agent,BR0022,michaelfrench@example.org,0984520862,2025-03-18,True
+EMP00371,ภานุพล,ตันเผ่า,ภานุพล ตันเผ่า,Relationship Manager,BR0009,brandonwilliams@example.org,0959907608,2018-10-09,True
+EMP00372,สุไฮลัน,ทหารแท้,สุไฮลัน ทหารแท้,Teller,BR0011,tony92@example.com,0612014706,2025-03-15,True
+EMP00373,กรพนธ์,อุลหัสสา,กรพนธ์ อุลหัสสา,Branch Manager,BR0005,carla11@example.com,0817277117,2020-11-10,True
+EMP00374,ธีรวัช,หนักแน่น,ธีรวัช หนักแน่น,Contact Center Agent,BR0029,robert92@example.net,0983429829,2007-01-13,True
+EMP00375,หล้า,หนักแน่น,หล้า หนักแน่น,Contact Center Agent,BR0050,hbarker@example.com,0699909550,2007-11-03,True
+EMP00376,อัญพัชร์,สังข์กรด,อัญพัชร์ สังข์กรด,Wealth Advisor,BR0046,duane16@example.org,0685162274,2019-10-26,True
+EMP00377,วรินทธิ์ธร,ถนัดหัตถกรรม,วรินทธิ์ธร ถนัดหัตถกรรม,Relationship Manager,BR0049,teresa63@example.net,0930980425,2021-12-14,True
+EMP00378,อณาวิน,นฤทุกข์,อณาวิน นฤทุกข์,Loan Officer,BR0036,phillip20@example.net,0689450606,2014-09-07,True
+EMP00379,ทานตะวัน,ดุษฎีวนิช,ทานตะวัน ดุษฎีวนิช,Teller,BR0042,ihood@example.org,0835951776,2016-12-16,True
+EMP00380,ใจกลาง,แจ้งสว่าง,ใจกลาง แจ้งสว่าง,Wealth Advisor,BR0041,sullivanmartin@example.net,0874795330,2007-11-27,True
+EMP00381,ภาสินี,แต้กุล,ภาสินี แต้กุล,Loan Officer,BR0046,pricematthew@example.org,0620366100,2006-08-23,True
+EMP00382,พรชนก,ดาบเพ็ชร์,พรชนก ดาบเพ็ชร์,Branch Manager,BR0033,bowmansheryl@example.net,0823004554,2006-11-16,True
+EMP00383,เพชรมณี,สันตะวงศ์,เพชรมณี สันตะวงศ์,Contact Center Agent,BR0030,laurieroman@example.org,0857112953,2007-11-02,True
+EMP00384,อนุวัช,บุญศล,อนุวัช บุญศล,Loan Officer,BR0030,rmccoy@example.net,0840808765,2012-07-26,True
+EMP00385,สายสุรีย์,ไชยภา,สายสุรีย์ ไชยภา,Wealth Advisor,BR0028,sarahwells@example.com,0989370629,2017-10-13,True
+EMP00386,สิริลัดดา,งามพิเชษฐ์,สิริลัดดา งามพิเชษฐ์,Teller,BR0038,vicki67@example.net,0668413398,2016-03-06,True
+EMP00387,อาซือมะ,ถนิมมาศ,อาซือมะ ถนิมมาศ,Relationship Manager,BR0035,angeladean@example.com,0947784439,2010-03-17,True
+EMP00388,จันทภา,นิติสาขา,จันทภา นิติสาขา,Teller,BR0030,dwilson@example.org,0886949294,2020-05-18,True
+EMP00389,กิติกานต์,นิลสุวรรณ์,กิติกานต์ นิลสุวรรณ์,Wealth Advisor,BR0047,smontoya@example.net,0959285530,2005-08-13,True
+EMP00390,สัญชาน,นิลเสนา,สัญชาน นิลเสนา,Wealth Advisor,BR0015,rdixon@example.org,0934048745,2006-09-21,True
+EMP00391,ฮามีย๊ะ,ทองปากน้ำ,ฮามีย๊ะ ทองปากน้ำ,Contact Center Agent,BR0024,fhowe@example.org,0985919248,2026-04-20,True
+EMP00392,มาสิตะ,ไทยแท้,มาสิตะ ไทยแท้,Relationship Manager,BR0026,bryanttina@example.org,0669605448,2007-06-17,True
+EMP00393,พลภูมิ,ถิรสวัสดิ์,พลภูมิ ถิรสวัสดิ์,Wealth Advisor,BR0021,andrea57@example.com,0637341549,2022-06-03,True
+EMP00394,แปลง,ถิรสวัสดิ์,แปลง ถิรสวัสดิ์,Relationship Manager,BR0027,hayley98@example.net,0862492636,2008-11-21,True
+EMP00395,จีรยุทธ,นุ่มกัน,จีรยุทธ นุ่มกัน,Teller,BR0014,daniel18@example.net,0945116504,2005-06-19,True
+EMP00396,ปภาวรินทร์,ติระคมน์,ปภาวรินทร์ ติระคมน์,Wealth Advisor,BR0038,brucedickson@example.net,0864038991,2015-04-10,True
+EMP00397,พรปราณี,ศรีสัตย์,พรปราณี ศรีสัตย์,Teller,BR0014,susan36@example.com,0621277393,2020-08-31,True
+EMP00398,เทพณรงค์,พรรษาสกุล,เทพณรงค์ พรรษาสกุล,Contact Center Agent,BR0044,christopher58@example.com,0890873991,2008-01-01,True
+EMP00399,บุญญามี,ธูปะวิโรจน์,บุญญามี ธูปะวิโรจน์,Teller,BR0018,campbelljennifer@example.org,0868254673,2012-02-06,False
+EMP00400,จักรชัย,วะคีมัน,จักรชัย วะคีมัน,Loan Officer,BR0002,ramseymelissa@example.com,0959874448,2022-01-09,True
+EMP00401,ประเดิม,ทองปากน้ำ,ประเดิม ทองปากน้ำ,Teller,BR0002,william97@example.org,0847122247,2007-11-06,True
+EMP00402,มาสิตะ,ขันธุลา,มาสิตะ ขันธุลา,Relationship Manager,BR0031,dianejones@example.net,0952323564,2020-08-21,True
+EMP00403,ราณี,นานายน,ราณี นานายน,Relationship Manager,BR0004,ruben79@example.org,0840116574,2022-12-24,True
+EMP00404,แปลง,วุฑฒยากร,แปลง วุฑฒยากร,Teller,BR0037,kellyjackson@example.org,0868574685,2009-10-07,True
+EMP00405,ธเนษฐ,ถนัดการยนต์,ธเนษฐ ถนัดการยนต์,Loan Officer,BR0045,brenda66@example.org,0871479061,2022-01-17,True
+EMP00406,ฤทธิ์ชกร,บุนยาภิสนท์,ฤทธิ์ชกร บุนยาภิสนท์,Teller,BR0049,dsmith@example.net,0832916528,2022-06-26,True
+EMP00407,จณิตตา,ถมังรักษสัตว์,จณิตตา ถมังรักษสัตว์,Contact Center Agent,BR0016,ryan40@example.org,0932057942,2007-06-12,True
+EMP00408,ธัชญา,นำธวัช,ธัชญา นำธวัช,Relationship Manager,BR0015,brownjose@example.com,0994973316,2026-03-03,True
+EMP00409,ธีรวุฒิ,ผลบุญ,ธีรวุฒิ ผลบุญ,Relationship Manager,BR0028,maryhodges@example.org,0998115667,2018-03-10,True
+EMP00410,นาวีตา,นาคะนคร,นาวีตา นาคะนคร,Branch Manager,BR0049,danielodonnell@example.com,0668631409,2012-11-07,True
+EMP00411,ทิพรดา,นิระหานี,ทิพรดา นิระหานี,Teller,BR0031,dylan62@example.net,0959745806,2020-08-25,True
+EMP00412,นพวรรณ,ธาราธร,นพวรรณ ธาราธร,Relationship Manager,BR0009,josephsmith@example.org,0641889792,2005-01-07,True
+EMP00413,ชิดชนก,ตะละภัฏ,ชิดชนก ตะละภัฏ,Wealth Advisor,BR0037,brownalison@example.com,0994282233,2006-11-29,True
+EMP00414,อณาวิน,ถนัดการยนต์,อณาวิน ถนัดการยนต์,Wealth Advisor,BR0032,justingray@example.com,0920173522,2011-04-15,True
+EMP00415,แปลง,ดำริห์ชอบ,แปลง ดำริห์ชอบ,Loan Officer,BR0038,nelsondeborah@example.com,0922084480,2015-05-13,True
+EMP00416,คมกฤชญ์,ยาปะโลหิต,คมกฤชญ์ ยาปะโลหิต,Branch Manager,BR0041,grimescrystal@example.net,0884737009,2010-02-06,True
+EMP00417,ศศิธร,จันอ้น,ศศิธร จันอ้น,Relationship Manager,BR0043,eperry@example.net,0640056108,2023-11-27,True
+EMP00418,สุรนีย์,คำลือ,สุรนีย์ คำลือ,Teller,BR0042,johnlee@example.net,0898225002,2023-12-26,True
+EMP00419,เบญญาทิพย์,ติระคมน์,เบญญาทิพย์ ติระคมน์,Teller,BR0010,carpenterjamie@example.org,0933012314,2005-03-19,True
+EMP00420,เนตรฤดี,นุตตาร,เนตรฤดี นุตตาร,Contact Center Agent,BR0017,phillipdavies@example.com,0666650051,2005-05-05,True
+EMP00421,อินทรีย์,แจ้งสว่าง,อินทรีย์ แจ้งสว่าง,Wealth Advisor,BR0008,smithrobin@example.org,0895223882,2015-11-11,True
+EMP00422,อมัด,ถนอมมนุษย์,อมัด ถนอมมนุษย์,Contact Center Agent,BR0006,burnettjoseph@example.net,0689301094,2026-01-01,True
+EMP00423,กิติวัฒน์,นาคพันธุ์,กิติวัฒน์ นาคพันธุ์,Teller,BR0036,jramirez@example.org,0694377631,2007-06-10,True
+EMP00424,เพทาย,ทับทิมไทย,เพทาย ทับทิมไทย,Teller,BR0029,allison43@example.net,0826713723,2014-03-30,True
+EMP00425,เฉลิมรัตน์,ไชยภา,เฉลิมรัตน์ ไชยภา,Wealth Advisor,BR0049,gravessteven@example.org,0855434379,2005-05-08,True
+EMP00426,ปัญญาพร,นะวะมันดร,ปัญญาพร นะวะมันดร,Relationship Manager,BR0037,kristiharvey@example.com,0959093817,2016-12-14,True
+EMP00427,ปัตถพงษ์,ทองปากน้ำ,ปัตถพงษ์ ทองปากน้ำ,Contact Center Agent,BR0032,kristinlewis@example.com,0632338079,2007-06-10,True
+EMP00428,หลี,ถนัดรบ,หลี ถนัดรบ,Contact Center Agent,BR0016,debra34@example.org,0680446941,2010-10-25,True
+EMP00429,เมษา,ทองปากน้ำ,เมษา ทองปากน้ำ,Contact Center Agent,BR0017,mchambers@example.com,0938810498,2018-11-08,False
+EMP00430,มารีนี,เช้าวันดี,มารีนี เช้าวันดี,Branch Manager,BR0028,aliciahall@example.org,0683350330,2024-08-23,True
+EMP00431,นิชนันท์,สุวรรณหงษ์,นิชนันท์ สุวรรณหงษ์,Relationship Manager,BR0010,ashleynguyen@example.net,0971428454,2009-11-01,True
+EMP00432,เจษฏาภรณ์,ถนัดการยนต์,เจษฏาภรณ์ ถนัดการยนต์,Loan Officer,BR0045,johughes@example.net,0955537191,2013-12-27,True
+EMP00433,ฐิติณัฐฐา,แนวพญา,ฐิติณัฐฐา แนวพญา,Contact Center Agent,BR0003,andrewdaniel@example.org,0889292364,2014-05-01,True
+EMP00434,ศรลักษณ์,ศรีเผด็จ,ศรลักษณ์ ศรีเผด็จ,Wealth Advisor,BR0040,nicoleward@example.net,0697706326,2023-06-13,True
+EMP00435,โสภณ,ตรีเภรินทร์,โสภณ ตรีเภรินทร์,Branch Manager,BR0038,jefferysmith@example.com,0674138736,2012-02-24,True
+EMP00436,ทรรศนชัย,นพตระกูล,ทรรศนชัย นพตระกูล,Contact Center Agent,BR0019,james54@example.com,0626490560,2016-09-21,True
+EMP00437,อธิวัตร,นักสำหรวจ,อธิวัตร นักสำหรวจ,Branch Manager,BR0030,jacob30@example.com,0855571357,2007-10-01,True
+EMP00438,สุปรานี,บุณยะภาชน์,สุปรานี บุณยะภาชน์,Branch Manager,BR0038,eadams@example.org,0826320462,2010-12-31,True
+EMP00439,อดิสรณ์,ร่มธิติรัตน์,อดิสรณ์ ร่มธิติรัตน์,Teller,BR0040,cowen@example.net,0845659744,2020-05-31,True
+EMP00440,ศุภนุนาย,ดวงทับทิม,ศุภนุนาย ดวงทับทิม,Teller,BR0050,nathan64@example.org,0639317774,2022-10-13,True
+EMP00441,ศุภชัย,เตชะกำพุ,ศุภชัย เตชะกำพุ,Loan Officer,BR0032,ryan37@example.net,0689608186,2013-07-28,True
+EMP00442,ปัณณธร,คณานุรักษ์,ปัณณธร คณานุรักษ์,Teller,BR0027,zbass@example.net,0938570300,2008-09-04,True
+EMP00443,เอนกพงศ์,ติระคมน์,เอนกพงศ์ ติระคมน์,Teller,BR0018,estevens@example.com,0628510150,2026-04-26,True
+EMP00444,ราชัน,ทำประดู่,ราชัน ทำประดู่,Contact Center Agent,BR0050,jasminebecker@example.com,0671212418,2010-11-17,True
+EMP00445,อิสรันดร์,ฉิมพาลี,อิสรันดร์ ฉิมพาลี,Contact Center Agent,BR0029,mcgeejessica@example.net,0699129807,2016-05-29,True
+EMP00446,สมปอง,ทัศนสุทธิ,สมปอง ทัศนสุทธิ,Teller,BR0033,bryantclifford@example.com,0672516417,2011-03-14,True
+EMP00447,ยศวัฒน์,บัวเผื่อน,ยศวัฒน์ บัวเผื่อน,Relationship Manager,BR0020,thomas56@example.com,0827795460,2010-02-18,True
+EMP00448,จิรวิทย์,ทองประดิฐ,จิรวิทย์ ทองประดิฐ,Loan Officer,BR0043,powelltyrone@example.net,0632212358,2010-05-27,True
+EMP00449,ใจกลาง,ภูภักดี,ใจกลาง ภูภักดี,Loan Officer,BR0041,richardwerner@example.com,0855648316,2024-12-25,False
+EMP00450,ราชันทร์,ตันเผ่า,ราชันทร์ ตันเผ่า,Relationship Manager,BR0050,megan60@example.com,0977961990,2026-02-17,True
+EMP00451,พัชรีนิษฐ์,นาคสุทิน,พัชรีนิษฐ์ นาคสุทิน,Relationship Manager,BR0005,fordlisa@example.net,0982406938,2023-06-28,True
+EMP00452,นิมุ,ทหารแท้,นิมุ ทหารแท้,Loan Officer,BR0040,scottperez@example.com,0814508393,2009-11-01,True
+EMP00453,อัญพัชร์,ทองปากน้ำ,อัญพัชร์ ทองปากน้ำ,Relationship Manager,BR0023,ipowell@example.com,0920213834,2012-10-09,True
+EMP00454,ธัญญกัญญา,ยางสวย,ธัญญกัญญา ยางสวย,Loan Officer,BR0024,catherineballard@example.net,0629676618,2024-03-24,True
+EMP00455,ซูรัยดา,นาคะนคร,ซูรัยดา นาคะนคร,Teller,BR0033,wanda49@example.com,0941316515,2015-08-05,True
+EMP00456,วิพุธ,ดิสกะประกาย,วิพุธ ดิสกะประกาย,Wealth Advisor,BR0043,hoovergeorge@example.com,0653592633,2025-10-21,False
+EMP00457,สุรการณ์,นุ่มกัน,สุรการณ์ นุ่มกัน,Relationship Manager,BR0049,danielruiz@example.net,0688896254,2017-02-06,True
+EMP00458,พิศพรรณ,ถนัดการยนต์,พิศพรรณ ถนัดการยนต์,Branch Manager,BR0041,kayla28@example.org,0959846306,2024-04-24,True
+EMP00459,จิฬาภรณ์,นาถะพินธุ,จิฬาภรณ์ นาถะพินธุ,Branch Manager,BR0036,tinagardner@example.org,0880651824,2024-02-21,True
+EMP00460,ศภัคชคง,ธูปหอม,ศภัคชคง ธูปหอม,Loan Officer,BR0029,levinesara@example.net,0629335588,2025-08-29,True
+EMP00461,ศรินยา,สงประเสริฐ,ศรินยา สงประเสริฐ,Loan Officer,BR0036,deborah93@example.org,0990891783,2017-12-23,True
+EMP00462,ธีริสรา,นิลสุวรรณ์,ธีริสรา นิลสุวรรณ์,Branch Manager,BR0020,charles44@example.com,0999795907,2014-01-12,True
+EMP00463,ภัทรนาฎ,ทุมะบุตร์,ภัทรนาฎ ทุมะบุตร์,Relationship Manager,BR0007,annedoyle@example.com,0881421634,2018-03-25,True
+EMP00464,ธีราทัต,ยาปะโลหิต,ธีราทัต ยาปะโลหิต,Relationship Manager,BR0007,nicole43@example.org,0630671499,2021-09-09,True
+EMP00465,จณิสตา,บุตดา,จณิสตา บุตดา,Loan Officer,BR0002,megansantos@example.com,0654509276,2016-06-29,True
+EMP00466,พรสวรรค์,แท่นทอง,พรสวรรค์ แท่นทอง,Relationship Manager,BR0046,iclark@example.org,0973252440,2013-01-23,True
+EMP00467,ปัตถพงษ์,แต้กุล,ปัตถพงษ์ แต้กุล,Teller,BR0002,sherrygonzalez@example.com,0983246653,2008-06-10,False
+EMP00468,โสภา,ตรีครุธพันธุ์,โสภา ตรีครุธพันธุ์,Teller,BR0037,lhoward@example.org,0936936148,2023-05-16,True
+EMP00469,ประวี,ปานสุวรรณ,ประวี ปานสุวรรณ,Loan Officer,BR0020,barnettcharlotte@example.org,0659775067,2006-10-11,False
+EMP00470,สมหมาย,ทีฆะ,สมหมาย ทีฆะ,Wealth Advisor,BR0024,ftyler@example.net,0922582240,2005-09-11,True
+EMP00471,ทองสิริ,นามขำ,ทองสิริ นามขำ,Branch Manager,BR0044,jrichmond@example.net,0934287738,2014-06-12,True
+EMP00472,จุฑาภรณ์,ผลบุญ,จุฑาภรณ์ ผลบุญ,Teller,BR0028,melissalewis@example.net,0896113318,2017-11-29,True
+EMP00473,นันทิกานต์,นิละทัต,นันทิกานต์ นิละทัต,Wealth Advisor,BR0016,joseph87@example.com,0946186828,2012-05-04,True
+EMP00474,พีระพงศ์พันธ์,ดิสกะประกาย,พีระพงศ์พันธ์ ดิสกะประกาย,Wealth Advisor,BR0002,qmurray@example.com,0686248866,2005-10-03,True
+EMP00475,สุทธิพจน์,ทองสีไพล,สุทธิพจน์ ทองสีไพล,Contact Center Agent,BR0020,lori84@example.org,0932189532,2007-09-23,True
+EMP00476,แกมแพร,หอมสิน,แกมแพร หอมสิน,Loan Officer,BR0023,taylorzachary@example.org,0926303227,2010-03-31,True
+EMP00477,หรรษา,เลขะพันธุ์,หรรษา เลขะพันธุ์,Teller,BR0041,everettchristina@example.org,0680864337,2024-08-09,True
+EMP00478,ชิดชนก,ธนรักษ์,ชิดชนก ธนรักษ์,Contact Center Agent,BR0004,lopezcarla@example.com,0626373799,2006-05-20,True
+EMP00479,ณิชนันท์,ทองลาภ,ณิชนันท์ ทองลาภ,Relationship Manager,BR0048,olsonjohn@example.com,0837872659,2019-05-16,True
+EMP00480,จินต์จุฑา,นิลสลัว,จินต์จุฑา นิลสลัว,Relationship Manager,BR0038,james14@example.net,0918663747,2012-07-15,True
+EMP00481,มลิวรรณ,ถนัดอักษร,มลิวรรณ ถนัดอักษร,Wealth Advisor,BR0022,pamela03@example.net,0836971358,2023-10-11,True
+EMP00482,ณัฐติญา,อุ่นอก,ณัฐติญา อุ่นอก,Loan Officer,BR0011,ahudson@example.org,0642892752,2014-03-25,True
+EMP00483,กุลภาวลัย,บุญศล,กุลภาวลัย บุญศล,Branch Manager,BR0040,youngrenee@example.com,0852984455,2020-02-20,True
+EMP00484,มูฮำมัด,ถาวรายุศม์,มูฮำมัด ถาวรายุศม์,Teller,BR0032,diazkimberly@example.org,0625857878,2011-01-24,True
+EMP00485,เนตรฤดี,ธัญาโภชน์,เนตรฤดี ธัญาโภชน์,Contact Center Agent,BR0036,larry95@example.net,0888540393,2024-11-03,True
+EMP00486,นนทกาญจน์,ไทนิยม,นนทกาญจน์ ไทนิยม,Relationship Manager,BR0007,ymoore@example.com,0818366604,2007-08-25,True
+EMP00487,ยศพนต์,บุนยะศัพท์,ยศพนต์ บุนยะศัพท์,Contact Center Agent,BR0048,smithmonica@example.com,0688584114,2007-10-26,True
+EMP00488,จีรยุทธ,เณรานุสนธิ์,จีรยุทธ เณรานุสนธิ์,Relationship Manager,BR0011,donald04@example.org,0983993091,2018-06-02,True
+EMP00489,มะลีวัลย์,ถาวรายุศม์,มะลีวัลย์ ถาวรายุศม์,Branch Manager,BR0006,marksanford@example.org,0895850431,2017-04-18,True
+EMP00490,เทียมศักดิ์,ตราชู,เทียมศักดิ์ ตราชู,Relationship Manager,BR0015,sharon59@example.net,0661125070,2015-11-23,True
+EMP00491,นิติ,พานเกล้า,นิติ พานเกล้า,Wealth Advisor,BR0016,annette79@example.com,0631927877,2014-08-13,True
+EMP00492,วัลลภ,ตรีครุธพันธุ์,วัลลภ ตรีครุธพันธุ์,Branch Manager,BR0011,ashleymorales@example.com,0923814298,2021-10-03,True
+EMP00493,ธีรวัช,ประจันตะเสน,ธีรวัช ประจันตะเสน,Wealth Advisor,BR0044,epowers@example.org,0851035984,2015-08-06,True
+EMP00494,ชัญญานุนาย,นวลเพ็ง,ชัญญานุนาย นวลเพ็ง,Contact Center Agent,BR0025,castillokatherine@example.org,0680742306,2018-11-05,True
+EMP00495,นันทวุฒิ,เจริญรัมย์,นันทวุฒิ เจริญรัมย์,Teller,BR0017,kevin67@example.org,0996637941,2017-01-24,True
+EMP00496,มลิวรรณ,ไตรบรรพ,มลิวรรณ ไตรบรรพ,Relationship Manager,BR0050,bradleyhodge@example.net,0679041502,2013-07-14,True
+EMP00497,พิมพ์ประภา,บุนยะศัพท์,พิมพ์ประภา บุนยะศัพท์,Teller,BR0045,cynthia92@example.net,0686876943,2022-07-05,True
+EMP00498,อัญชิษฐา,ศิวะวรเวท,อัญชิษฐา ศิวะวรเวท,Wealth Advisor,BR0027,ischmidt@example.com,0971860581,2024-06-04,False
+EMP00499,นิรันดร์,ดิศดใน,นิรันดร์ ดิศดใน,Wealth Advisor,BR0025,cervanteskim@example.org,0638234502,2024-06-26,True
+EMP00500,สิราพร,นามขำ,สิราพร นามขำ,Relationship Manager,BR0030,bmoore@example.com,0968646286,2005-04-19,True

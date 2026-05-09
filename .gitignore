@@ -16,10 +16,10 @@ Thumbs.db
 .vscode/
 .idea/
 
-# Generated data (keep generators, ignore large outputs by default)
-data/batch/*.csv
-data/batch/*.parquet
-!data/batch/.gitkeep
+# Generated data — committed for lab convenience
+# (uncomment below if you regenerate large datasets and want to keep them out of git)
+# data/batch/*.csv
+# data/batch/*.parquet
 data/streaming/*.jsonl
 !data/streaming/*.sample.jsonl
 
