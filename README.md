@@ -1,4 +1,4 @@
-# FabricIQ-L300 — Microsoft Fabric IQ Hands-on Labs (Level 300–400)
+# FabricIQ-L300 — Microsoft Fabric IQ Hands-on Labs (Level 300)
 
 Intensive hands-on labs and workshops for **Microsoft Fabric IQ**, designed for practitioners who already understand the basics (level 200) and want to go deep into ontology design, cross-domain semantics, and AI agents grounded on Fabric IQ.
 
