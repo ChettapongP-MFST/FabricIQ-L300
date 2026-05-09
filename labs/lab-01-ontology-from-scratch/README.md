@@ -44,6 +44,3 @@ flowchart LR
 ```
 
 Each box becomes an **Entity**, each arrow becomes a **Relationship**. Underneath, every box is **bound** to a Delta table in your Lakehouse.
-
-## Lab conventions
-When you're done, continue to [Lab 2 — Cross-Ontology Relationships](../lab-02-cross-ontology-relationships/README.md).
