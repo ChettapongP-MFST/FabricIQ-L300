@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+.pytest_cache/
+
+# Notebooks
+.ipynb_checkpoints/
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Generated data (keep generators, ignore large outputs by default)
+data/batch/*.csv
+data/batch/*.parquet
+!data/batch/.gitkeep
+data/streaming/*.jsonl
+!data/streaming/*.sample.jsonl
+
+# Secrets
+.env
+*.pem
+*.key
