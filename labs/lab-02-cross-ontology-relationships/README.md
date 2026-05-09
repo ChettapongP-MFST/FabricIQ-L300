@@ -61,7 +61,3 @@ flowchart LR
 ```
 
 Bold lines crossing the subgraph boundaries are **cross-ontology** relationships — that's the new thing in this lab.
-
-## Conventions
-
-Same as Lab 1 — Thai/English naming, `[screenshot: …]` placeholders, THB amounts. Re-use the **Lakehouse** `BankingIQ_LH` from Lab 1 (you've already loaded all CSVs).
