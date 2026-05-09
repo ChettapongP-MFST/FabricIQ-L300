@@ -2,7 +2,7 @@
 
 Microsoft Fabric is a **unified, SaaS analytics platform** that brings together every workload a modern data team needs — data ingestion, engineering, warehousing, real-time intelligence, data science, BI, and operational databases — on top of a single, open, governed lake called **OneLake**.
 
-## Why Fabric exists
+## Why Microsoft Fabric exists
 
 Before Fabric, a typical analytics stack was a stitched-together collection of services (storage + ELT + DW + lakehouse + streaming + BI + ML), each with its own:
 
@@ -13,7 +13,7 @@ Before Fabric, a typical analytics stack was a stitched-together collection of s
 
 Fabric collapses this into **one SaaS service, one storage layer, one capacity, one governance plane**.
 
-## The five pillars of Fabric
+## The Five Pillars of Fabric
 
 | Pillar | What it is |
 |---|---|
